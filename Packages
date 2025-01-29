@@ -3,7 +3,7 @@ Version: 1.7-8
 Architecture: iphoneos-arm64
 Maintainer: 搬运工
 Depends: mobilesubstrate
-Filename: ./byg.iosios.net.hbwechathelper.rootlless_1.7-8_iphoneos-arm64.deb
+Filename: ./debs/byg.iosios.net.hbwechathelper.rootlless_1.7-8_iphoneos-arm64.deb
 Size: 11247776
 MD5sum: 668847a8a03b4a7b1d63ebda6c2c2636
 SHA1: b75be56e834d683b0157c878163c418bf007c54b
@@ -20,7 +20,7 @@ Version: 2.1-0
 Architecture: iphoneos-arm64
 Maintainer: 搬运工
 Depends: mobilesubstrate
-Filename: ./byg.iosios.net.misakahelper.rootless_2.1-0_iphoneos-arm64.deb
+Filename: ./debs/byg.iosios.net.misakahelper.rootless_2.1-0_iphoneos-arm64.deb
 Size: 13178104
 MD5sum: 5335f3e1a069460ec2a807a859cd40bb
 SHA1: c77e323b40d1d704da1ee52093a92f503e7d6d07
@@ -37,7 +37,7 @@ Version: 3.8-0
 Architecture: iphoneos-arm64
 Maintainer: 搬运工
 Depends: firmware (>= 5.0)
-Filename: ./byg.iosios.net.miyou.rootless_3.8-0_iphoneos-arm64.deb
+Filename: ./debs/byg.iosios.net.miyou.rootless_3.8-0_iphoneos-arm64.deb
 Size: 10163320
 MD5sum: a9bfec3e321ccc4eedc84a64f792f3ce
 SHA1: 4b4697857b8bac84b7412dc24cfb786235d56b7a
@@ -55,7 +55,7 @@ Version: 5.9.7-5
 Architecture: iphoneos-arm64
 Maintainer: 搬运工
 Depends: mobilesubstrate
-Filename: ./byg.iosios.net.releasefugu15_5.9.7-5_iphoneos-arm64.deb
+Filename: ./debs/byg.iosios.net.releasefugu15_5.9.7-5_iphoneos-arm64.deb
 Size: 499884
 MD5sum: 611de296eaa2151eaa57049aa21b893b
 SHA1: a7013951dea0975284f0fff770c248a550c2d63d
@@ -75,7 +75,7 @@ Depends: firmware (>= 5.0)
 Conflicts: com.25mao.wcplugins.rootless
 Replaces: com.25mao.wcplugins.rootless
 Provides: com.25mao.wcplugins.rootless
-Filename: ./com.25mao.wcplugins.rootlesss_0.1-3_iphoneos-arm64.deb
+Filename: ./debs/com.25mao.wcplugins.rootlesss_0.1-3_iphoneos-arm64.deb
 Size: 19792
 MD5sum: f75f521b1ab7264ee9a50569eda3bdf3
 SHA1: 7e80f2bd0266d66bd95dc8a7269a7f1edae0d01e
@@ -97,7 +97,7 @@ Version: 0.6-8
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: ./com.curtin.pkc.rootless_0.6-8_iphoneos-arm64.deb
+Filename: ./debs/com.curtin.pkc.rootless_0.6-8_iphoneos-arm64.deb
 Size: 783732
 MD5sum: 6ddaa7b92e3030b0a096f2938b569d31
 SHA1: 80480df9f5bdcb867bd7e0746fdd3bea35b4e059
@@ -117,7 +117,7 @@ Architecture: iphoneos-arm64
 Maintainer: WeChat
 Depends: mobilesubstrate, firmware (>= 12.0)
 Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
-Filename: ./com.dumpapp.wechat-rootlesss_2.0.4_iphoneos-arm64.deb
+Filename: ./debs/com.dumpapp.wechat-rootlesss_2.0.4_iphoneos-arm64.deb
 Size: 9231924
 MD5sum: bb75405be096d25f8d552036b8caf5b9
 SHA1: c2dbafcc62efce11e17b9f33e3c5280790986d83
@@ -136,7 +136,7 @@ Version: 1.1-1
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./com.netskao.wcdisablehotupdates_1.1-1_iphoneos-arm64.deb
+Filename: ./debs/com.netskao.wcdisablehotupdates_1.1-1_iphoneos-arm64.deb
 Size: 2180
 MD5sum: d1ed0bc2f9d3e0d4a91f016dd427d47e
 SHA1: b02166f44651f5dce156e15ab1108a087a0b2fa8
@@ -151,7 +151,7 @@ Version: 1.2-5
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Filename: ./com.netskao.wechatnotiavatars_1.2-5_iphoneos-arm64.deb
+Filename: ./debs/com.netskao.wechatnotiavatars_1.2-5_iphoneos-arm64.deb
 Size: 522872
 MD5sum: d4cddacc0e6bd93c7ace01c441866a88
 SHA1: a786b58b37c9338d34b901b596f1125a08268207
@@ -168,7 +168,7 @@ Version: 2.2-1
 Architecture: iphoneos-arm64
 Maintainer: 搬运工
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./com.pingfan.wechat_2.2-1_iphoneos-arm64.deb
+Filename: ./debs/com.pingfan.wechat_2.2-1_iphoneos-arm64.deb
 Size: 1661920
 MD5sum: f58b5d57749f30b323dc75907300b7d2
 SHA1: 5d00abacb68e108a4cf2edf466bd05578b7df7e2
@@ -185,7 +185,7 @@ Version: 1.1.3-1
 Architecture: iphoneos-arm64
 Maintainer: WeChat
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./com.tencent.themebox_1.1.3-1_iphoneos-arm64.deb
+Filename: ./debs/com.tencent.themebox_1.1.3-1_iphoneos-arm64.deb
 Size: 2781912
 MD5sum: 830af80b995938c5b287d05e196a34f4
 SHA1: 3791a51b5e57a0bb27a2a641353165b6921f9d85
@@ -200,7 +200,7 @@ Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: z
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./zlw.bismihxw_1.1_iphoneos-arm64.deb
+Filename: ./debs/zlw.bismihxw_1.1_iphoneos-arm64.deb
 Size: 10868
 MD5sum: 354f7486a922e9306708ee598fe97cde
 SHA1: 2a18debd3f12c317965ad66f9467b150b7e6126d
