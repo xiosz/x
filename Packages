@@ -61,7 +61,7 @@ Size: 3736
 MD5sum: 18e31b59c7e25dcb50cbdcd7ba16344c
 SHA1: 852af228bea02862241590cee8f38605b5d28c42
 SHA256: 21f3275e1b18e6309011483131de859d3f47c10eab81e67f61fdcddd13f3f4ee
-Section: 插件依赖
+Section: 汉化
 Description: 为软件屏蔽越狱检测Choicy 提供简体中文，基本上各个版本的choicy都可汉化、通用，放心使用！无法更新choicy请先更新完插件之后再安装汉化插件！
 Author: zhaonan
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -282,7 +282,7 @@ Size: 4832
 MD5sum: aa5ebb71aba7905cb6ab198d4cc96cd5
 SHA1: 5a587a768852b67a17b17a3aeda0a57ab7e7847d
 SHA256: b293dfb977bedc46c8a9564b1541bb9c9fd26d553ab6fccaa385f6270489ad4d
-Section: 嗨-工具
+Section: 汉化
 Description: UnderDock 简体中文包(rootless)。
 Author: 妖刀
 Name: UnderDock 简体中文包(rootless)
@@ -317,7 +317,7 @@ Size: 1332
 MD5sum: 0d5ba9cb44b7903733767c5b3cbcb5fe
 SHA1: ae84c5263a5bd5f9c8b4074039a773bce94cefc8
 SHA256: 9bbb0c87b6492ffebd2c6745011dc500fb52a0ebc405de211db7b6002bba5ef2
-Section: 嗨-汉化
+Section: 汉化
 Description: FloatingDockXVI 简体中文包(rootless)。
 Author: 妖刀
 Name: FloatingDockXVI 简体中文包(rootless)
@@ -332,7 +332,7 @@ Size: 8688
 MD5sum: 42a6a0ccdf16f6413788eacfe7b84e6c
 SHA1: 66667332eb09e68f2f4429c5463cd8110287dc9b
 SHA256: 01cc108204b31753d548bfd4f756981e7ca6d66ace87ca4b8fc73561b64ff213
-Section: 嗨-汉化
+Section: 汉化
 Description: SettingsRevamp 简体中文包(rootless)。
 Author: 妖刀
 Name: SettingsRevamp 简体中文包(rootless)
@@ -347,7 +347,7 @@ Size: 2323844
 MD5sum: 2a5ea1550a2fa9efe60a235cd2177526
 SHA1: bce014e55e2ae6cf1ce2a548d9d0dee58416cec3
 SHA256: 78ed551814732ed3a1b5778aa7be3b08ddb37f2bcab90c56bb5e91a23624315d
-Section: Utilities
+Section: 系统增强
 Description: An awesome SwiftUI application!
 Author: 预言小猫
 Name: MeowTimeMachine
@@ -394,7 +394,7 @@ Size: 4288
 MD5sum: 36a18363da91271eda2aa21d0a4c8585
 SHA1: 94680f2e7783e22a6c38edc027615411df9f97cf
 SHA256: d104e05021a2393e05497a36272617df8c0346891705a0d8980f810ab0ec243c
-Section: Terminal_Support
+Section: 系统增强
 Description: deb 工具，普通解压，普通打包，批量解压，批量打包，提取已安装软件包，deb 信息查看
 Author: zhaonan <invalidunit@icloud.com>
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
@@ -428,7 +428,7 @@ Size: 4084
 MD5sum: 477a746708ce7b833cbf621a5e0553d5
 SHA1: 28a5f04b0b393a8d20bef18fd326882a7b5c91f2
 SHA256: 783fdcbf61ec69d6debad399b2c063defc7d89176b3553975e9863f2809792a3
-Section: Tweaks
+Section: 系统增强
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
 Author: Nathan Senter
 Icon: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/icon.png
@@ -446,7 +446,7 @@ Size: 5053172
 MD5sum: 19e6c3622b95cc6a7896cc0ed9a55053
 SHA1: 7373c929d91613fa8fcde6cba0c543017c39525e
 SHA256: 1fb42c20b24b510770e8d43cf5ec48a8242652e26b6cb0aebc97c9c7626731db
-Section: Netskao-Tweaks
+Section: 系统增强
 Description: 桌面图标增强插件
  * 由 Netskao 汉化修改
  * 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标
@@ -466,7 +466,7 @@ Size: 2176
 MD5sum: 3d997bf67169aca300440e730dbfa65d
 SHA1: 57977e9d5ebeecbf63338ad4f8cf6e570609fb15
 SHA256: 666e0d1bfb72344fe054c36d922eec773c8f120378a13f498a178dae201fd014
-Section: Netskao-Tweaks
+Section: 微信插件
 Description: WeChat Disable Hot Updates
 Author: Netskao
 Name: WCDisableHotUpdates
@@ -481,7 +481,7 @@ Size: 523280
 MD5sum: 4f939c2ae9f461630140eb22bec95f26
 SHA1: de2ba1700d63974ae6d75cae2729eda1e1aea5bd
 SHA256: 1ef5e83ad04defd9d4c5a7887d03d01739d2deacde531836cb693a2ed902877d
-Section: Netskao-Tweaks
+Section: 微信插件
 Description: 让微信消息通知显示微信好友头像，傻逼张小龙为什么不支持？
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
@@ -498,7 +498,7 @@ Size: 4143564
 MD5sum: 2b86f67e49509136c9c6893b49f9864c
 SHA1: 5f199151cf3b05cc0a0db243ed0c364891107661
 SHA256: e0e99f85a142b6c122845150c6d2b1ed3bd59ccb6f7ffee449c3d525f7636101
-Section: Tweaks
+Section: 系统增强
 Description: 状态栏插件.
 Author: niceios
 Name: NiceBarX(iOS16)【Rootless】
@@ -514,7 +514,7 @@ Size: 732932
 MD5sum: a123d541a4e6f196f5767199fdafc9b2
 SHA1: 69159cdf879de3118355631ff8378a9dbd522ab6
 SHA256: c06ae01a0b08f212a0f8f284dd5d13820183d163717ce4557ea9d3735c0a9ac4
-Section: Addons
+Section: 依赖
 Description: nice插件依赖组件.
 Author: niceios
 Name: NiceHelper【Rootless】
@@ -530,7 +530,7 @@ Size: 27004
 MD5sum: d2e7ce0580f04745c050d6e4575326c0
 SHA1: b927812c8ecb1f638f189694f71777fa0848b227
 SHA256: c4000da923960bacb2f79f47a5a1ef101892edcb80566041e53d91c9e0f8ce18
-Section: Development
+Section: 依赖
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
 Description: A modern AppList alternative
 Tag: purpose::library
