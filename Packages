@@ -115,7 +115,7 @@ Size: 983952
 MD5sum: dd14f3873670f1747800310f721c2e18
 SHA1: 61adb3ae7a5fc554908404c7e2c449f54ab71eca
 SHA256: fcca6e52ba76037e583a772bbd143d1ed3132057958ecd20e34de5d09079bb33
-Section: 越狱软件
+Section: 越狱应用
 Description: The first real iOS system cleanup and management utility iOS最强的垃圾清理工具，此为官方破解版，全功能破解！有经济能力的，请支持一下大神！有问题群里反馈！
 Author: Ivano Bilenchi
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -132,7 +132,7 @@ Size: 949340
 MD5sum: b11e26bfa4bef145732cd956dca5c728
 SHA1: 2b75b52321ba68dda92d30b0052bcb222ee263a2
 SHA256: 4ac6ba7978c2665ca5f53c0d42201399f8a354ae89e7aa8c8fdd16f82fe94e19
-Section: 图层
+Section: 应用插件
 Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片。
 Author: x✨
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -827,7 +827,7 @@ Size: 333844
 MD5sum: 18579eebc2c572b7a69ef2f12a40dff5
 SHA1: b60ae97b92a8b615607a1bfb390e042e31b20f7d
 SHA256: ddbe8749c360379103ed64b20109d55a7cdb5c6958f0cc154d97f6f39eed3276
-Section: 去广告
+Section: 应用插件
 Description: 威锋会员VIP，去掉广告，理论支持7.0以上版本。
 Name: 威锋VIP_rootless
 
