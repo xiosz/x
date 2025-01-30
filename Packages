@@ -115,7 +115,7 @@ Size: 983952
 MD5sum: dd14f3873670f1747800310f721c2e18
 SHA1: 61adb3ae7a5fc554908404c7e2c449f54ab71eca
 SHA256: fcca6e52ba76037e583a772bbd143d1ed3132057958ecd20e34de5d09079bb33
-Section: 系统增强
+Section: 越狱软件
 Description: The first real iOS system cleanup and management utility iOS最强的垃圾清理工具，此为官方破解版，全功能破解！有经济能力的，请支持一下大神！有问题群里反馈！
 Author: Ivano Bilenchi
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -132,7 +132,7 @@ Size: 949340
 MD5sum: b11e26bfa4bef145732cd956dca5c728
 SHA1: 2b75b52321ba68dda92d30b0052bcb222ee263a2
 SHA256: 4ac6ba7978c2665ca5f53c0d42201399f8a354ae89e7aa8c8fdd16f82fe94e19
-Section: 软件破解
+Section: 图层
 Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片。
 Author: x✨
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -186,7 +186,7 @@ Size: 504576
 MD5sum: 4c47200313e377e7b3faf4cc763bc3a3
 SHA1: 98d7d000c4d3ebc336c554821ed2bdea26cd4d08
 SHA256: a9b052ed5fad7a27ebc4a246c12c79753630572ae8ea03cb4692fbcd905036bd
-Section: 系统增强
+Section: 终端
 Description: 一款iPhone可以用的终端软件
 Author: lordscotland
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -347,7 +347,7 @@ Size: 2323844
 MD5sum: 2a5ea1550a2fa9efe60a235cd2177526
 SHA1: bce014e55e2ae6cf1ce2a548d9d0dee58416cec3
 SHA256: 78ed551814732ed3a1b5778aa7be3b08ddb37f2bcab90c56bb5e91a23624315d
-Section: 系统增强
+Section: 越狱应用
 Description: An awesome SwiftUI application!
 Author: 预言小猫
 Name: MeowTimeMachine
@@ -363,7 +363,7 @@ Size: 54520
 MD5sum: 31abca2cb66a22ab8b2448ce2c845403
 SHA1: 043856c36a629a3780041a873cf9a8928f447358
 SHA256: 54b5797d04d281353ef7a3c80c094fb1f6dfd9ea20a0f78d7b497a6e61ffc3db
-Section: Development
+Section: 依赖
 Description: An awesome library of some sort!!
 Tag: role::developer
 Author: MrGcGamer
@@ -379,7 +379,7 @@ Size: 397540
 MD5sum: 0fc78e3c392bf5ac9f5d3acea6fdeabd
 SHA1: d63229aa7307e5094ace066c796e7a2e0900aceb
 SHA256: d22bb3600c30a6d7bb6987596bc42a880d10acfebf9a0e226eda346d45a9ca0e
-Section: Tweaks
+Section: 系统增强
 Description: Floating Dock on iOS 16
 Author: Ethan Whited
 Name: FloatingDockXVI
@@ -413,7 +413,7 @@ Size: 52072
 MD5sum: 90cf4b92c6894441cc0e0aca4c97d17a
 SHA1: 90e0ea88be4a4415b88252059e630c73723a5698
 SHA256: 4b56d62d6e008a19911ea215c905e5f31e156cac71ecce52d7de327cd576e2f8
-Section: Tweak Injection
+Section: 依赖
 Priority: optional
 Description: DobbyHook Substrate Shim
 Author: Nathan, jmpews
@@ -469,7 +469,7 @@ SHA256: 666e0d1bfb72344fe054c36d922eec773c8f120378a13f498a178dae201fd014
 Section: 微信插件
 Description: WeChat Disable Hot Updates
 Author: Netskao
-Name: WCDisableHotUpdates
+Name: 禁止微信热更新
 
 Package: com.netskao.wechatnotiavatars
 Version: 1.2-5
@@ -485,7 +485,7 @@ Section: 微信插件
 Description: 让微信消息通知显示微信好友头像，傻逼张小龙为什么不支持？
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
-Name: WeChatNotiAvatar 微信头像
+Name: 微信头像
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/js.json
 
 Package: com.niceios.nicebarx16-rootless
@@ -553,7 +553,7 @@ Size: 59092
 MD5sum: cca16f7ed60fe749d41f81ee9fd9cec5
 SHA1: ba2bdb11d662b777dd3045ca84582e6363d29f50
 SHA256: 2304731984c831d7af337cd293cdee4c86bb1599b345c0b0993205d4178d94dc
-Section: Tweaks
+Section: 依赖
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Description: Support tweak for CC modules!
 Tag: purpose::extension
@@ -573,7 +573,7 @@ Size: 159776
 MD5sum: cff6bfd27b38887e6b2154ac67667205
 SHA1: 4b543c79e3627c0502de2b91bcf2196df54b19cc
 SHA256: 08579e2d2a41ebf66a2168b8d520c589ba3705ce23cb71c0dcfc75bc94254f84
-Section: Tweaks
+Section: 系统增强
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
 Description: Advanced Tweak Configuration!
 Tag: purpose::extension
@@ -595,7 +595,7 @@ Size: 12520
 MD5sum: b611be7bb3350c76fa9afee9422ace2f
 SHA1: aef25a37adb7c1d8a923cfacea9247dbbc39f9af
 SHA256: 8d4db810489928726f4e40ba9976b740f7315db3f01b18703a6241d516578f87
-Section: System
+Section: 依赖
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
 Description: Securely extend the sandbox of system processes and user applications
 Tag: purpose::extension, role::developer
@@ -614,7 +614,7 @@ Size: 8004
 MD5sum: be9cecef53f930753464ffe2ed66ef91
 SHA1: 4c7da09b348ee8ddafd6f1594bb750e02147a889
 SHA256: e76cb8e9c4bf07ebc92b50a1ef19b3033a7a5ac7f9f716846dfd632f116b15e6
-Section: Development
+Section: 依赖
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libundirectDp
 Description: Patchfinder and rebinder for objc_direct methods
 Tag: purpose::library
@@ -635,7 +635,7 @@ Size: 58560
 MD5sum: a382ef15b1740cb6f22e5da6436fc5aa
 SHA1: 75db0bb81739966fba09177c5759c6506ed5d230
 SHA256: 1ccf15ac182dc505deab8ebb8d7208028eaf05bbedd5ef114df53a9f68c9d794
-Section: Tweaks
+Section: 系统增强
 Description: Useful actions on the Keyboard Dock View!
 Author: P2KDev <p2kdev@gmail.com>
 Name: UnderDock
@@ -667,7 +667,7 @@ Size: 2782224
 MD5sum: c21c94b1e5a7ae0f068483fc37a4390d
 SHA1: 691c76a46da813c1935ea3d8d1093cccaacc622d
 SHA256: 80bba13378e561c73dcf22601f693a04ba3650ad2081f1119d82ecf10a045569
-Section: Tweaks
+Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
 Name: 主题盒子
@@ -683,7 +683,7 @@ Size: 2667488
 MD5sum: a2282462f58f8ee031a14367358f9cd2
 SHA1: 7e1671a4437ea73e9d67263b2db1d7207ba4a518
 SHA256: bc7e744dbcedaaed160d7a35dd9739be398516220ebef8235ce2c78dedd3dd39
-Section: 抖音插件
+Section: 应用插件
 Description: 抖音多功能增强插件
  * 无水印下载视频/图片/LivePhoto
  * 隐藏各种元素按钮文字等功能
@@ -704,7 +704,7 @@ Size: 906092
 MD5sum: c014521c131fcf102f2c4f548aaf9174
 SHA1: 3427ab672805358b6fb4ef7323751625ca3e960b
 SHA256: 96ec464ad799a0bfae704c47837c8e6506476150eb34c09fd55ec554838313d7
-Section: 应用破解
+Section: 应用插件
 Description: 小红书增强插件
  * 默认移除一些广告
  * 无水印保存图片、视频、live图、评论区图片，长按复制文案
@@ -726,7 +726,7 @@ Size: 93584
 MD5sum: e31b57802adc6c363ae98eb95723b0c8
 SHA1: 23be0754d83f4baaa56ed1b0ba7f099a718d055d
 SHA256: b69f1ddf65a6a0dccf29f51d9be92670a5d895c68e21f4463836533c0fb7da56
-Section: System
+Section: 依赖
 Description: Runtime for tweaks built using Orion and Swift
 Tag: role::developer, compatible_min::ios14.0
 Author: Theos Team <support@theos.dev>
@@ -744,7 +744,7 @@ Size: 3476
 MD5sum: e9d00dab11b0dbc83c1d169f1f913214
 SHA1: 44e9b41937335ccf657cec71408dc6a05da21492
 SHA256: 6098cd68e3f16285edea0a8a8d3bbdfbc7d0f50aa0171a3b5267b01aca3020d8
-Section: Networking
+Section: 系统增强
 Priority: important
 Description: secure shell client and server (metapackage)
 
@@ -760,7 +760,7 @@ Size: 549752
 MD5sum: 3fac2188a5e86a4a7e56b1c220016e16
 SHA1: 8f0879ee3c2182279c2c6d25ec676ef0de24f5e2
 SHA256: 668e5fe0266fc00456a7ef96ea5b5e39d11f5ac3ecaa28304230bdb1cbdc4f57
-Section: Networking
+Section: 系统增强
 Priority: important
 Description: secure shell (SSH) client, for secure access to remote machines
 Conffiles:
@@ -778,7 +778,7 @@ Size: 292380
 MD5sum: 0943ce85ac82ea4ccd58213d868a3678
 SHA1: a2f84bb1cdf1750795f383b80c15884df2ffd028
 SHA256: c86c5b917f463df18c8e0b9fb15a67222f246992ab2ea75b282b1949ec22a2cc
-Section: Networking
+Section: 系统增强
 Priority: important
 Description: secure shell (SSH) server, for secure access from remote machines
 Conffiles:
@@ -798,7 +798,7 @@ Size: 32224
 MD5sum: f48e1a91bba0970346d92df0a4ac2782
 SHA1: a7eac6bdd9ac3871e1ee4284242edd7555703ded
 SHA256: 65f825b4e6f02b3be7aa34dc75c689cdb7e21fb11b85b91cf90677e08be4ea8d
-Section: Networking
+Section: 系统增强
 Priority: important
 Description: secure shell (SSH) sftp server module, for SFTP access from remote machines
 
@@ -812,7 +812,7 @@ Size: 19200
 MD5sum: eb5883f51c4f0a11f1f3536ec873c2d8
 SHA1: 22201fc9b3551be5e1f4eabe99081aced8e307c5
 SHA256: 729d0a24252130a8a0ee5f77669a3ba05179a5074862cb650399f66f58fa4ce1
-Section: System
+Section: 依赖
 Description: load preferences in style
 Author: Dhinak G <dhinak@dhinak.net>
 Name: PreferenceLoader
@@ -827,7 +827,7 @@ Size: 333844
 MD5sum: 18579eebc2c572b7a69ef2f12a40dff5
 SHA1: b60ae97b92a8b615607a1bfb390e042e31b20f7d
 SHA256: ddbe8749c360379103ed64b20109d55a7cdb5c6958f0cc154d97f6f39eed3276
-Section: tweaks
+Section: 去广告
 Description: 威锋会员VIP，去掉广告，理论支持7.0以上版本。
 Name: 威锋VIP_rootless
 
@@ -843,7 +843,7 @@ Size: 3839816
 MD5sum: f69d679b7f8e2856a80dee5fba98af88
 SHA1: ecaba25442739bd01dd58a6fc0358514a69931ba
 SHA256: dc232e9c7534fcac038195bb90c6924b8c6495ded6eb58666cd1a0e4fc9379b0
-Section: Terminal Support
+Section: 终端
 Description: Powerful terminal app for iOS
 Tag: compatible_min::ios14.0
 Author: HASHBANG Productions <support@hbang.ws>
@@ -863,7 +863,7 @@ Size: 206316
 MD5sum: a2ef60d7dbb5b1124aafbed9c0c4c36c
 SHA1: 90afb14c238bdbe22aa5a34a55ebfc2f624889cc
 SHA256: 99b8255bb8e09b64a31592147b1fa20565cd9ca18fab375e12fa8cff6f9b1217
-Section: Tweaks
+Section: 系统增强
 Description: Customize the iOS settings page.
 Author: SOPPPra
 Depiction: https://repo.cypwn.xyz/depiction/2887
