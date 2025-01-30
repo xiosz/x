@@ -26,7 +26,7 @@ Size: 13424
 MD5sum: ec91296539557989cfb1cef48a587809
 SHA1: d1aefc64ab21d5fda4cbce3375d0be7c001bc37d
 SHA256: 7eab9d8d5726cef856ccd28e2ba8e15e7c80b3584325a33e14bce9560c2e759f
-Section: 系统增强
+Section: 终端
 Description: 众所周知iOS15-iOS16多巴胺是无根越狱，就是没有修改系统目录的权限，可以理解为没办法直接换字体！本插件是多巴胺挂载工具，配合终端软件，可以挂载系统目录，进行系统字体更换或者其它功能，不懂的可以进搬运工源里看教程如何使用！挂载映射换字体比滑雪板好用！因为是全局替换！但是你别问我一些奇奇怪怪的路径，我也不知道！搬运工源一直在用心为用户服务！
 Author: 无尽伤痛都锁进黑夜 & zhaonan
 Icon: https://chinesebuilding.club/pic/cydia.png
