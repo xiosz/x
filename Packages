@@ -870,3 +870,19 @@ Depiction: https://repo.cypwn.xyz/depiction/2887
 Icon: https://repo.cypwn.xyz/packages/SettingsRevamp-Rootless/icon.png
 Name: SettingsRevamp
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2887
+
+Package: zlw.bismihxw
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zlw.bismihxw_1.1_iphoneos-arm64.deb
+Size: 10880
+MD5sum: 0b33d0d9993a82ad502d236b24d5c996
+SHA1: 54b58414e50dcb027c1b0d2c566e8cee115275e8
+SHA256: 25d3e0568472058d8d95a7855eabcc00966827af5df7a0a09604fc0829dda506
+Section: 微信插件
+Description: 插件入口在设置里，更新去除订阅列表广告，去除订阅列表视频广告，去除朋友圈广告，公众号文章广告。小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效
+Author: z
+Name: bismih微信
+
