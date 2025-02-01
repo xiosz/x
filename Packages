@@ -886,17 +886,3 @@ Description: 插件入口在设置里，更新去除订阅列表广告，去除�
 Author: 小泽
 Name: 微信去广告
 
-Package: com.hk.floatingdock16.cn.rl
-Version: 2.3
-Architecture: iphoneos-arm64
-Maintainer: 小泽
-Depends: mobilesubstrate
-Filename: ./com.hk.floatingdock16.cn.rl_2.3_iphoneos-arm64.deb
-Size: 1328
-MD5sum: 525e8166dd43aa99d052332ed387bc99
-SHA1: 2c214b02929fcfd2b65f34234568930e4ae31ff7
-SHA256: 0b18afef8e3dc6490f44df939f26567d640e64d3cfd72acaae77d938836cfe6b
-Section: 汉化
-Description: FloatingDockXVI 简体中文包(rootless)。
-Author: 小泽
-Name: FloatingDockXVI 简体中文包(rootless)
