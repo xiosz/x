@@ -892,7 +892,7 @@ Architecture: iphoneos-arm64
 Maintainer: 小果子
 Depends: mobilesubstrate
 Filename: ./debs/com.guozi.weifeng_7.0.3_iphoneos-arm64.deb
-Size: 333848
+Size: 333916
 MD5sum: acd4253676881a5973b4c43e69fb833f
 SHA1: 7c159d233fc2b2cadec219668d64c238b5a273ce
 SHA256: 4dd15ba3d43cd5901cb37b61697d0d0dde0799af27db1bfe0a32fe1f940eaf34
