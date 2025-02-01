@@ -132,7 +132,7 @@ Size: 949340
 MD5sum: b11e26bfa4bef145732cd956dca5c728
 SHA1: 2b75b52321ba68dda92d30b0052bcb222ee263a2
 SHA256: 4ac6ba7978c2665ca5f53c0d42201399f8a354ae89e7aa8c8fdd16f82fe94e19
-Section: 应用插件
+Section: 其他应用插件
 Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片。
 Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -683,7 +683,7 @@ Size: 2667488
 MD5sum: a2282462f58f8ee031a14367358f9cd2
 SHA1: 7e1671a4437ea73e9d67263b2db1d7207ba4a518
 SHA256: bc7e744dbcedaaed160d7a35dd9739be398516220ebef8235ce2c78dedd3dd39
-Section: 应用插件
+Section: 其他应用插件
 Description: 抖音多功能增强插件
  * 无水印下载视频/图片/LivePhoto
  * 隐藏各种元素按钮文字等功能
@@ -704,7 +704,7 @@ Size: 906092
 MD5sum: c014521c131fcf102f2c4f548aaf9174
 SHA1: 3427ab672805358b6fb4ef7323751625ca3e960b
 SHA256: 96ec464ad799a0bfae704c47837c8e6506476150eb34c09fd55ec554838313d7
-Section: 应用插件
+Section: 其他应用插件
 Description: 小红书增强插件
  * 默认移除一些广告
  * 无水印保存图片、视频、live图、评论区图片，长按复制文案
@@ -827,7 +827,7 @@ Size: 333844
 MD5sum: 18579eebc2c572b7a69ef2f12a40dff5
 SHA1: b60ae97b92a8b615607a1bfb390e042e31b20f7d
 SHA256: ddbe8749c360379103ed64b20109d55a7cdb5c6958f0cc154d97f6f39eed3276
-Section: 应用插件
+Section: 其他应用插件
 Description: 威锋会员VIP，去掉广告，理论支持7.0以上版本。
 Name: 威锋VIP_rootless
 
@@ -886,3 +886,17 @@ Description: 插件入口在设置里，更新去除订阅列表广告，去除�
 Author: 小泽
 Name: 微信去广告
 
+Package: com.guozi.weifeng
+Version: 7.0.3
+Architecture: iphoneos-arm64
+Maintainer: 小果子
+Depends: mobilesubstrate
+Filename: ./com.guozi.weifeng_7.0.3_iphoneos-arm64.deb
+Size: 333848
+MD5sum: acd4253676881a5973b4c43e69fb833f
+SHA1: 7c159d233fc2b2cadec219668d64c238b5a273ce
+SHA256: 4dd15ba3d43cd5901cb37b61697d0d0dde0799af27db1bfe0a32fe1f940eaf34
+Section: 其他应用插件
+Description: 去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.1及之后的版本！FuckYourAds！去他妈的广告!还你干净体验！开启会员功能!点亮会员头像!更新支持7.0.3
+Author: 小果子
+Name: 威锋FuckVIP-Ads
