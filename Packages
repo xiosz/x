@@ -1,7 +1,7 @@
 Package: byg.iosios.net.appcardlite
 Version: 3.3.3-end
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: 小泽
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
 Filename: ./debs/byg.iosios.net.appcardlite_3.3.3-end_iphoneos-arm64.deb
 Size: 409448
@@ -9,11 +9,11 @@ MD5sum: d1954e4dc2b6481059e3a9b26a1f1ab9
 SHA1: c207f12454d036adc30a516c950f192668601ee7
 SHA256: 215d2d19cbf6f5d75ba5a04062e250e63a2854f8953b1f2381eacb7a55ba38a1
 Section: 系统增强
-Description: 又一款分屏插件，小编个人不太喜欢这种分屏方式，但是也有不少人用户喜欢，效果如截图介绍所示，大家可以试试，觉得不好用的可以缷载！开启教程如下：看第一张截图照片手势介绍，右侧最下面往左侧最下面滑，就出来设置项了，然后自己研究怎么进行设置！感觉不太好用，喜欢的小伙们就使用吧！搬运工源一直在为用户着想，希望大家多多分享，更新才快！
-Author: Crassna
+Description: 又一款分屏插件，小编个人不太喜欢这种分屏方式，但是也有不少人用户喜欢，效果如截图介绍所示，大家可以试试，觉得不好用的可以缷载！开启教程如下：看第一张截图照片手势介绍，右侧最下面往左侧最下面滑，就出来设置项了，然后自己研究怎么进行设置！感觉不太好用，喜欢的小伙们就使用吧！小泽源一直在为用户着想，希望大家多多分享，更新才快！
+Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: App Lecard分屏-Rootless
-Sponsor: 搬运工
+Sponsor: 小泽
 
 Package: byg.iosios.net.bindfs
 Version: 0.5.5-1
@@ -27,16 +27,16 @@ MD5sum: ec91296539557989cfb1cef48a587809
 SHA1: d1aefc64ab21d5fda4cbce3375d0be7c001bc37d
 SHA256: 7eab9d8d5726cef856ccd28e2ba8e15e7c80b3584325a33e14bce9560c2e759f
 Section: 终端
-Description: 众所周知iOS15-iOS16多巴胺是无根越狱，就是没有修改系统目录的权限，可以理解为没办法直接换字体！本插件是多巴胺挂载工具，配合终端软件，可以挂载系统目录，进行系统字体更换或者其它功能，不懂的可以进搬运工源里看教程如何使用！挂载映射换字体比滑雪板好用！因为是全局替换！但是你别问我一些奇奇怪怪的路径，我也不知道！搬运工源一直在用心为用户服务！
-Author: 无尽伤痛都锁进黑夜 & zhaonan
+Description: 众所周知iOS15-iOS16多巴胺是无根越狱，就是没有修改系统目录的权限，可以理解为没办法直接换字体！本插件是多巴胺挂载工具，配合终端软件，可以挂载系统目录，进行系统字体更换或者其它功能，不懂的可以进小泽源里看教程如何使用！挂载映射换字体比滑雪板好用！因为是全局替换！但是你别问我一些奇奇怪怪的路径，我也不知道！小泽源一直在用心为用户服务！
+Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: mount_bindfs多巴胺挂载工具-Rootless
-Sponsor: 搬运工
+Sponsor: 小泽
 
 Package: byg.iosios.net.ccvpn
 Version: 1.1.1-2
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: 小泽
 Depends: com.opa334.ccsupport
 Filename: ./debs/byg.iosios.net.ccvpn_1.1.1-2_iphoneos-arm64.deb
 Size: 30648
@@ -44,16 +44,16 @@ MD5sum: f4afe367b9ec17b113e5aed7bb070dbc
 SHA1: 52bb85e982a91c82baf68fcd5b9a49eed41f3d46
 SHA256: aa12a592c86d75bd692449c31510b41586b4dd3fa5a7d84b51927f31299f0961
 Section: 系统增强
-Description: 控制中心添加VPN便捷开关模块，如果已经添加搬运工源里另一款就无需再安装这个插件！
-Author: Mr.Zhang
+Description: 控制中心添加VPN便捷开关模块，如果已经添加小泽源里另一款就无需再安装这个插件！
+Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: CCVPN控制中心添加VPN开关-Rootless
-Sponsor: 搬运工
+Sponsor: 小泽
 
 Package: byg.iosios.net.choicy.zh-hans
 Version: 0.1.1
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: 小泽
 Depends: com.opa334.choicy
 Replaces: com.opa334.choicy
 Filename: ./debs/byg.iosios.net.choicy.zh-hans_0.1.1_iphoneos-arm64.deb
@@ -63,15 +63,15 @@ SHA1: 852af228bea02862241590cee8f38605b5d28c42
 SHA256: 21f3275e1b18e6309011483131de859d3f47c10eab81e67f61fdcddd13f3f4ee
 Section: 汉化
 Description: 为软件屏蔽越狱检测Choicy 提供简体中文，基本上各个版本的choicy都可汉化、通用，放心使用！无法更新choicy请先更新完插件之后再安装汉化插件！
-Author: zhaonan
+Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: Choicy屏蔽越狱汉化插件-Rootless
-Sponsor: 搬运工
+Sponsor: 小泽
 
 Package: byg.iosios.net.goodwifi16
 Version: 1.0.1
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: 小泽
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
 Conflicts: com.julioverne.goodwifi, com.daodao.goodwifi
 Filename: ./debs/byg.iosios.net.goodwifi16_1.0.1_iphoneos-arm64.deb
@@ -81,15 +81,15 @@ SHA1: 687fed112bad3f801130a40f59d13a7e0c90c4c8
 SHA256: 111324ddfac4f7d0cd5b11ffc6c6da0f3a9cf43765f029c675ef3457370e5dfd
 Section: 系统增强
 Description: 应群友要求上架！本款插件更适合 iOS16 宝宝的 WiFi 配置，可查看连接的 WiFi 信道、加密方式、信号值，去除 RSSI 限制，显示 MAC 地址等，简体中文版，新年快乐！
-Author: julioverne & 妖刀
+Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: GoodWiFi16中文版-Rootless
-Sponsor: 搬运工
+Sponsor: 小泽
 
 Package: byg.iosios.net.hbwechathelper.rootlless
 Version: 1.7-8
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: 小泽
 Depends: mobilesubstrate
 Filename: ./debs/byg.iosios.net.hbwechathelper.rootlless_1.7-8_iphoneos-arm64.deb
 Size: 11249000
@@ -98,15 +98,15 @@ SHA1: 27a9426f7a18b3f9e5ea30755bd554fdfa4d7644
 SHA256: 470de075e640f5ccaa8aa96f68881a2245a22e8d3a29dfc7a056a2680f509e84
 Section: 微信插件
 Description: 支持文字转语音功能，一大特色，转语音闪退的话先设置音色！黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，朋友圈转发，防撤回，转发语音，自定义拍一拍 百变小尾巴 实时尾巴时间等功能 此为内测版，很多功能要付费才行，大家自行决定！
-Author: HuangBai
+Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 微信黄白助手-Rootless
-Sponsor: 搬运工
+Sponsor: 小泽
 
 Package: byg.iosios.net.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: 小泽
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
@@ -117,15 +117,15 @@ SHA1: 61adb3ae7a5fc554908404c7e2c449f54ab71eca
 SHA256: fcca6e52ba76037e583a772bbd143d1ed3132057958ecd20e34de5d09079bb33
 Section: 越狱应用
 Description: The first real iOS system cleanup and management utility iOS最强的垃圾清理工具，此为官方破解版，全功能破解！有经济能力的，请支持一下大神！有问题群里反馈！
-Author: Ivano Bilenchi
+Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: iCleaner Pro小扫把清理垃圾工具-Rootless
-Sponsor: 搬运工
+Sponsor: 小泽
 
 Package: byg.iosios.net.kshook
 Version: 1.0.6-3
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: 小泽
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/byg.iosios.net.kshook_1.0.6-3_iphoneos-arm64.deb
 Size: 949340
@@ -134,15 +134,15 @@ SHA1: 2b75b52321ba68dda92d30b0052bcb222ee263a2
 SHA256: 4ac6ba7978c2665ca5f53c0d42201399f8a354ae89e7aa8c8fdd16f82fe94e19
 Section: 应用插件
 Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片。
-Author: x✨
+Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 快手图层-Rootless
-Sponsor: 搬运工
+Sponsor: 小泽
 
 Package: byg.iosios.net.misakahelper.rootless
 Version: 2.1-0
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: 小泽
 Depends: mobilesubstrate
 Filename: ./debs/byg.iosios.net.misakahelper.rootless_2.1-0_iphoneos-arm64.deb
 Size: 13178076
@@ -151,15 +151,15 @@ SHA1: e6818763070f04752f1721ee64b761ea1e77c824
 SHA256: 7e65684cea78e2eaaee82126d711838290f33304cbb96f323b3185ad23263aae
 Section: 微信插件
 Description: MisakaHelper微信misaka助手，和其它类型微信插件类似，更多群功能！自行体验！可以解决低版本微信不能使用小程序问题！好像也可以抢红包！可以强制关注公众号，比如解决微信净化插件问题！
-Author: Misaka
+Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 微信Misaka助手-Rootless
-Sponsor: 搬运工
+Sponsor: 小泽
 
 Package: byg.iosios.net.miyou.rootless
 Version: 3.8-0
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: 小泽
 Depends: firmware (>= 5.0)
 Filename: ./debs/byg.iosios.net.miyou.rootless_3.8-0_iphoneos-arm64.deb
 Size: 10164816
@@ -169,15 +169,15 @@ SHA256: d7910c636da34c9da51eddb0d4da2ab392f40c29b54180b008b75777510e54c3
 Section: 微信插件
 Priority: optional
 Description: 微信助手-Rootless版。抢红包，callkit，换主题，转发语音等等功能，非常好用，源主力推！
-Author: Mao
+Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 微信助手-Rootless
-Sponsor: 搬运工
+Sponsor: 小泽
 
 Package: byg.iosios.net.mterminal-rootless
 Version: 1.4-1
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: 小泽
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: firmware (>= 15.0), gettext-localizations, system-cmds, bash | zsh
 Conflicts: mterminal
@@ -188,15 +188,15 @@ SHA1: 98d7d000c4d3ebc336c554821ed2bdea26cd4d08
 SHA256: a9b052ed5fad7a27ebc4a246c12c79753630572ae8ea03cb4692fbcd905036bd
 Section: 终端
 Description: 一款iPhone可以用的终端软件
-Author: lordscotland
+Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: MTerminal终端-Rootless
-Sponsor: 搬运工
+Sponsor: 小泽
 
 Package: byg.iosios.net.otadisabler
 Version: 0.6
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: 小泽
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/byg.iosios.net.otadisabler_0.6_iphoneos-arm64.deb
 Size: 9728
@@ -204,16 +204,16 @@ MD5sum: cf77bb50cba90a5028883fcc36c9b541
 SHA1: 916fc786d3107b1ffc54e97a1f2e1ddad0301529
 SHA256: 8692f71ff38b6826654be3a9ccc804999d605e68c2ea8b1eabb4f423bedc2912
 Section: 系统增强
-Description: Delete and disable OTA badge安装此插件即可屏蔽系统更新，yyds！半越狱不知道行不行，自行测试！安装之后进多巴胺里重启用户空间，或者重启手机生效！搬运工源，免费为全网用户提供技术支持！
-Author: ichitaso
+Description: Delete and disable OTA badge安装此插件即可屏蔽系统更新，yyds！半越狱不知道行不行，自行测试！安装之后进多巴胺里重启用户空间，或者重启手机生效！小泽源，免费为全网用户提供技术支持！
+Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: OTADisabler屏蔽系统更新-Rootless
-Sponsor: 搬运工
+Sponsor: 小泽
 
 Package: byg.iosios.net.releasefugu15
 Version: 5.9.7-5
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: 小泽
 Depends: mobilesubstrate
 Filename: ./debs/byg.iosios.net.releasefugu15_5.9.7-5_iphoneos-arm64.deb
 Size: 500072
@@ -221,11 +221,11 @@ MD5sum: f3c9812a84dbe5cb8087371a521ea29c
 SHA1: 07f686bdbb324b726b880990287812cf7d2cd05c
 SHA256: 2c05f4bfa9df8a854debd8ead8c2a1f04ab3828bccc595bc84a832c2591237cd
 Section: 微信插件
-Description: 把主题用filza放到对应文件夹，然后加载即可。主题包自己找，或者搬运工源群文件里有几个，不多！不要再问怎么用，插件里都写的很清楚，动动你们的小脑袋，还不行就百度一下你就知道！
-Author: 苏兔
+Description: 把主题用filza放到对应文件夹，然后加载即可。主题包自己找，或者小泽源群文件里有几个，不多！不要再问怎么用，插件里都写的很清楚，动动你们的小脑袋，还不行就百度一下你就知道！
+Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 酸果微信主题工具 - Rootless
-Sponsor: 搬运工
+Sponsor: 小泽
 
 Package: com.25mao.wcplugins.rootlesss
 Version: 0.1-3
@@ -246,7 +246,7 @@ Description: 微信插件管理
  * 收纳第三方微信插件
  * 位于微信右下角“我”-“插件”
  * 部分微信插件不支持收纳
-Author: Mao
+Author: 小泽
 Icon: https://TrollStoreX.Github.io/sileodepiction/wcplugins/icon.png
 Name: 微信插件管理
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/wcplugins/js.json
@@ -266,7 +266,7 @@ Section: 微信插件
 Priority: optional
 Homepage: Axs
 Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
+Author: 小泽
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: PKC_无根
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/PKC/js.json
@@ -284,7 +284,7 @@ SHA1: 5a587a768852b67a17b17a3aeda0a57ab7e7847d
 SHA256: b293dfb977bedc46c8a9564b1541bb9c9fd26d553ab6fccaa385f6270489ad4d
 Section: 汉化
 Description: UnderDock 简体中文包(rootless)。
-Author: 妖刀
+Author: 小泽
 Name: UnderDock 简体中文包(rootless)
 
 Package: com.dumpapp.wechat-rootlesss
@@ -302,7 +302,7 @@ Section: 微信插件
 Description: 微信多功能插件
  * 1:1 复刻“微信净化”插件，功能一模一样
  * ⚠️注意：不可与“微信净化”共存
-Author: DumpApp
+Author: 小泽
 Icon: https://TrollStoreX.Github.io/sileodepiction/DumpApp/icon.png
 Name: 锤子助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DumpApp/js.json
@@ -319,7 +319,7 @@ SHA1: ae84c5263a5bd5f9c8b4074039a773bce94cefc8
 SHA256: 9bbb0c87b6492ffebd2c6745011dc500fb52a0ebc405de211db7b6002bba5ef2
 Section: 汉化
 Description: FloatingDockXVI 简体中文包(rootless)。
-Author: 妖刀
+Author: 小泽
 Name: FloatingDockXVI 简体中文包(rootless)
 
 Package: com.hk.settingsrevamp.cn.rl
@@ -334,7 +334,7 @@ SHA1: 66667332eb09e68f2f4429c5463cd8110287dc9b
 SHA256: 01cc108204b31753d548bfd4f756981e7ca6d66ace87ca4b8fc73561b64ff213
 Section: 汉化
 Description: SettingsRevamp 简体中文包(rootless)。
-Author: 妖刀
+Author: 小泽
 Name: SettingsRevamp 简体中文包(rootless)
 
 Package: com.ketty.meowtimemachine
@@ -366,7 +366,7 @@ SHA256: 54b5797d04d281353ef7a3c80c094fb1f6dfd9ea20a0f78d7b497a6e61ffc3db
 Section: 依赖
 Description: An awesome library of some sort!!
 Tag: role::developer
-Author: MrGcGamer
+Author: 小泽
 Name: LibGcUniversal
 
 Package: com.nahtedetihw.floatingdockxvi
@@ -381,7 +381,7 @@ SHA1: d63229aa7307e5094ace066c796e7a2e0900aceb
 SHA256: d22bb3600c30a6d7bb6987596bc42a880d10acfebf9a0e226eda346d45a9ca0e
 Section: 系统增强
 Description: Floating Dock on iOS 16
-Author: Ethan Whited
+Author: 小泽
 Name: FloatingDockXVI
 
 Package: com.nan.deb
@@ -396,7 +396,7 @@ SHA1: 94680f2e7783e22a6c38edc027615411df9f97cf
 SHA256: d104e05021a2393e05497a36272617df8c0346891705a0d8980f810ab0ec243c
 Section: 系统增强
 Description: deb 工具，普通解压，普通打包，批量解压，批量打包，提取已安装软件包，deb 信息查看
-Author: zhaonan <invalidunit@icloud.com>
+Author: 小泽
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 Name: deb
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js.json
@@ -416,7 +416,7 @@ SHA256: 4b56d62d6e008a19911ea215c905e5f31e156cac71ecce52d7de327cd576e2f8
 Section: 依赖
 Priority: optional
 Description: DobbyHook Substrate Shim
-Author: Nathan, jmpews
+Author: 小泽
 Name: DobbyShim
 
 Package: com.nathan.internalstoragesettingss
@@ -430,7 +430,7 @@ SHA1: 28a5f04b0b393a8d20bef18fd326882a7b5c91f2
 SHA256: 783fdcbf61ec69d6debad399b2c063defc7d89176b3553975e9863f2809792a3
 Section: 系统增强
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
-Author: Nathan Senter
+Author: 小泽
 Icon: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/icon.png
 Name: 显示存储系统数据详情InternalStorageSettings
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/js.json
@@ -451,7 +451,7 @@ Description: 桌面图标增强插件
  * 由 Netskao 汉化修改
  * 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标
  * View & Manage Applications Data from your Home Screen
-Author: Fouad Raheb
+Author: 小泽
 Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
 Name: AppData
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/js.json
@@ -468,7 +468,7 @@ SHA1: 57977e9d5ebeecbf63338ad4f8cf6e570609fb15
 SHA256: 666e0d1bfb72344fe054c36d922eec773c8f120378a13f498a178dae201fd014
 Section: 微信插件
 Description: WeChat Disable Hot Updates
-Author: Netskao
+Author: 小泽
 Name: 禁止微信热更新
 
 Package: com.netskao.wechatnotiavatars
@@ -483,7 +483,7 @@ SHA1: de2ba1700d63974ae6d75cae2729eda1e1aea5bd
 SHA256: 1ef5e83ad04defd9d4c5a7887d03d01739d2deacde531836cb693a2ed902877d
 Section: 微信插件
 Description: 让微信消息通知显示微信好友头像，傻逼张小龙为什么不支持？
-Author: Netskao
+Author: 小泽
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: 微信头像
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/js.json
@@ -557,7 +557,7 @@ Section: 依赖
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Description: Support tweak for CC modules!
 Tag: purpose::extension
-Author: opa334 <opa334@protonmail.com>
+Author: 小泽
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Dev: opa334
 Name: CCSupport
@@ -577,7 +577,7 @@ Section: 系统增强
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
 Description: Advanced Tweak Configuration!
 Tag: purpose::extension
-Author: opa334 <opa334@protonmail.com>
+Author: 小泽
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
 Dev: opa334
 Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
@@ -599,7 +599,7 @@ Section: 依赖
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
 Description: Securely extend the sandbox of system processes and user applications
 Tag: purpose::extension, role::developer
-Author: opa334 <opa334@protonmail.com>
+Author: 小泽
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
 Dev: opa334
 Name: libSandy
@@ -618,7 +618,7 @@ Section: 依赖
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libundirectDp
 Description: Patchfinder and rebinder for objc_direct methods
 Tag: purpose::library
-Author: opa334 <opa334@protonmail.com>
+Author: 小泽
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libundirectDp
 Dev: opa334
 Name: libundirect
@@ -637,13 +637,13 @@ SHA1: 75db0bb81739966fba09177c5759c6506ed5d230
 SHA256: 1ccf15ac182dc505deab8ebb8d7208028eaf05bbedd5ef114df53a9f68c9d794
 Section: 系统增强
 Description: Useful actions on the Keyboard Dock View!
-Author: P2KDev <p2kdev@gmail.com>
+Author: 小泽
 Name: UnderDock
 
 Package: com.pingfan.wechat
 Version: 2.2-1
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: 小泽
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.pingfan.wechat_2.2-1_iphoneos-arm64.deb
 Size: 1662880
@@ -652,10 +652,10 @@ SHA1: 4d3e420b75c7e133d114d814f4a50fe0c7e88996
 SHA256: 44e877c607ded9dcce69513eca78e53f0b5d47bb9bdf8f0c705ce6ca7a43166f
 Section: 微信插件
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，右滑快速备注，全局长按导航栏快捷功能,证书有效期查询,语音包，一键已读消息等。木笛默认密码113113。不显示请缷载微信插件收纳！
-Author: pingfan
+Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 微信虚拟视频-Rootless
-Sponsor: 搬运工
+Sponsor: 小泽
 
 Package: com.tencent.themebox
 Version: 1.1.3-1
@@ -688,7 +688,7 @@ Description: 抖音多功能增强插件
  * 无水印下载视频/图片/LivePhoto
  * 隐藏各种元素按钮文字等功能
  * 双指双击屏幕打开插件设置界面
-Author: x✨
+Author: 小泽
 Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
 Name: 抖音图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
@@ -710,7 +710,7 @@ Description: 小红书增强插件
  * 无水印保存图片、视频、live图、评论区图片，长按复制文案
  * 放大图片双指长按可保存高分辨率图片
  * APP设置界面右上角打开插件界面或双指长按设置界面
-Author: x✨
+Author: 小泽
 Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
 Name: 小红书图层 小红薯
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
@@ -729,7 +729,7 @@ SHA256: b69f1ddf65a6a0dccf29f51d9be92670a5d895c68e21f4463836533c0fb7da56
 Section: 依赖
 Description: Runtime for tweaks built using Orion and Swift
 Tag: role::developer, compatible_min::ios14.0
-Author: Theos Team <support@theos.dev>
+Author: 小泽
 Depiction: https://chariz.com/get/orion-runtime14
 Icon: https://img.chariz.cloud/icon/orion-runtime14/icon@3x.png
 Name: Orion Runtime (iOS 14 – 17)
@@ -814,7 +814,7 @@ SHA1: 22201fc9b3551be5e1f4eabe99081aced8e307c5
 SHA256: 729d0a24252130a8a0ee5f77669a3ba05179a5074862cb650399f66f58fa4ce1
 Section: 依赖
 Description: load preferences in style
-Author: Dhinak G <dhinak@dhinak.net>
+Author: 小泽
 Name: PreferenceLoader
 
 Package: weifengvip
@@ -846,7 +846,7 @@ SHA256: dc232e9c7534fcac038195bb90c6924b8c6495ded6eb58666cd1a0e4fc9379b0
 Section: 终端
 Description: Powerful terminal app for iOS
 Tag: compatible_min::ios14.0
-Author: HASHBANG Productions <support@hbang.ws>
+Author: 小泽
 Depiction: https://chariz.com/get/newterm-beta
 Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
 Name: NewTerm 3 Beta
@@ -865,7 +865,7 @@ SHA1: 90afb14c238bdbe22aa5a34a55ebfc2f624889cc
 SHA256: 99b8255bb8e09b64a31592147b1fa20565cd9ca18fab375e12fa8cff6f9b1217
 Section: 系统增强
 Description: Customize the iOS settings page.
-Author: SOPPPra
+Author: 小泽
 Depiction: https://repo.cypwn.xyz/depiction/2887
 Icon: https://repo.cypwn.xyz/packages/SettingsRevamp-Rootless/icon.png
 Name: SettingsRevamp
@@ -883,6 +883,6 @@ SHA1: 54b58414e50dcb027c1b0d2c566e8cee115275e8
 SHA256: 25d3e0568472058d8d95a7855eabcc00966827af5df7a0a09604fc0829dda506
 Section: 微信插件
 Description: 插件入口在设置里，更新去除订阅列表广告，去除订阅列表视频广告，去除朋友圈广告，公众号文章广告。小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效
-Author: z
+Author: 小泽
 Name: 微信去广告
 
