@@ -684,7 +684,6 @@ Version: 2.1.0
 Architecture: iphoneos-arm64
 Maintainer: 小泽
 Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
 Filename: ./debs/com.xx.dyhook_2.1.0_iphoneos-arm64.deb
 Size: 2673600
 MD5sum: aaafb0a1cd517b2eb96b54a86b9dd4cd
