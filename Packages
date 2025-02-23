@@ -682,7 +682,7 @@ Name: 主题盒子
 Package: com.xx.dyhooks
 Version: 2.1.0
 Architecture: iphoneos-arm64
-Maintainer: x✨
+Maintainer: 小泽
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
 Filename: ./debs/com.xx.dyhook_2.1.0_iphoneos-arm64.deb
@@ -697,7 +697,7 @@ Description: 抖音多功能增强插件
  * 双指双击屏幕打开插件设置界面
 Author: 小泽
 Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
-Name: 抖音图层
+Name: 抖音图层破解
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
 
 Package: com.xx.xhshooks
