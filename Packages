@@ -86,18 +86,25 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: GoodWiFi16中文版-Rootless
 Sponsor: 小泽
 
-Package: byg.iosios.net.hbwechathelper.rootlless
-Version: 1.7-8
+Package: com.hbwechathelper.ailuns
+Version: 1.8
 Architecture: iphoneos-arm64
 Maintainer: 小泽
 Depends: mobilesubstrate
-Filename: ./debs/byg.iosios.net.hbwechathelper.rootlless_1.7-8_iphoneos-arm64.deb
-Size: 11249000
-MD5sum: fa12b9c5a3c377212dbfa4a6a5eef28d
-SHA1: 27a9426f7a18b3f9e5ea30755bd554fdfa4d7644
-SHA256: 470de075e640f5ccaa8aa96f68881a2245a22e8d3a29dfc7a056a2680f509e84
+Filename: ./debs/com.hbwechathelper.ailuns_1.8_iphoneos-arm64.deb
+Size: 11226384
+MD5sum: 464b85126bc4e000efe1e836ee88c2db
+SHA1: 8939c1f79c630c9bc8f37fbc1b3108c6b363c4c0
+SHA256: a6c44263db92e5d739d1f74e69fc6cc9c3ff33ab7c1100f8fcabc36b56ac050a
 Section: 微信插件
-Description: 支持文字转语音功能，一大特色，转语音闪退的话先设置音色！黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，朋友圈转发，防撤回，转发语音，自定义拍一拍 百变小尾巴 实时尾巴时间等功能 此为内测版，很多功能要付费才行，大家自行决定！
+Description: 微信多功能插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，朋友圈转发，防撤回，转发语音，自定义拍一拍 百变小尾巴 实时尾巴时间等功能 此为内测版，很多功能要付费才行，大家自行决定！
 Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 微信黄白助手-Rootless
@@ -157,15 +164,15 @@ Name: 微信Misaka助手-Rootless
 Sponsor: 小泽
 
 Package: byg.iosios.net.miyou.rootless
-Version: 3.8-0
+Version: 3.8-1
 Architecture: iphoneos-arm64
 Maintainer: 小泽
 Depends: firmware (>= 5.0)
-Filename: ./debs/byg.iosios.net.miyou.rootless_3.8-0_iphoneos-arm64.deb
-Size: 10164816
-MD5sum: d5cd05704e3c123b5f0e169cd65533aa
-SHA1: 043bc0d26e9fa84aa9f5230d642728eb38a86703
-SHA256: d7910c636da34c9da51eddb0d4da2ab392f40c29b54180b008b75777510e54c3
+Filename: ./debs/byg.iosios.net.miyou.rootless_3.8-1_iphoneos-arm64.deb
+Size: 9026892
+MD5sum: aaeb51edbb8fdbc99887168a7c6460fc
+SHA1: e44451e54c0faf085781db991909dafb7a3cfeae
+SHA256: f1ba402b9df6c61d30164d76f8098d07e83c26b5685edefbdd6ff9b6bbdc93d3
 Section: 微信插件
 Priority: optional
 Description: 微信助手-Rootless版。抢红包，callkit，换主题，转发语音等等功能，非常好用，源主力推！
@@ -673,16 +680,16 @@ Author: WeChat
 Name: 主题盒子
 
 Package: com.xx.dyhooks
-Version: 2.0.8+8
+Version: 2.1.0
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
-Filename: ./debs/com.xx.dyhooks_2.0.8+8_iphoneos-arm64.deb
-Size: 2667488
-MD5sum: a2282462f58f8ee031a14367358f9cd2
-SHA1: 7e1671a4437ea73e9d67263b2db1d7207ba4a518
-SHA256: bc7e744dbcedaaed160d7a35dd9739be398516220ebef8235ce2c78dedd3dd39
+Filename: ./debs/com.xx.dyhook_2.1.0_iphoneos-arm64.deb
+Size: 2673600
+MD5sum: aaafb0a1cd517b2eb96b54a86b9dd4cd
+SHA1: a4b6ff4819ad53ca0937e5d555e13beaf3c8cffc
+SHA256: 8f1c99d0ad2edf592f2a524e6f97335fc857afbedc208f9e046443f6443c3108
 Section: 其他应用插件
 Description: 抖音多功能增强插件
  * 无水印下载视频/图片/LivePhoto
