@@ -679,7 +679,7 @@ Description: 微信主题盒子
 Author: WeChat
 Name: 主题盒子
 
-Package: com.xx.dyhooks
+Package: com.xx.dyhook
 Version: 2.1.0
 Architecture: iphoneos-arm64
 Maintainer: 小泽
