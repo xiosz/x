@@ -686,9 +686,9 @@ Maintainer: 小泽
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.xx.dyhook_2.1.0_iphoneos-arm64.deb
 Size: 2673600
-MD5sum: 0d0e9c7d4cf55342198d67915d876ef9
-SHA1: a37ae91357d0a2a9868f1e588a181ef28d005231
-SHA256: fa54eeec1b27329ff59aeb946aab78bbc24006ce2983589580c07eef06c8a405
+MD5sum: aaafb0a1cd517b2eb96b54a86b9dd4cd
+SHA1: a4b6ff4819ad53ca0937e5d555e13beaf3c8cffc
+SHA256: 8f1c99d0ad2edf592f2a524e6f97335fc857afbedc208f9e046443f6443c3108
 Section: 其他应用插件
 Description: 抖音多功能增强插件
  * 无水印下载视频/图片/LivePhoto
