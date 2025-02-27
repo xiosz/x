@@ -915,7 +915,7 @@ Depends: mobilesubstrate
 Conflicts: MikotoHelper
 Replaces: MikotoHelper
 Provides: MikotoHelper
-Filename: ./MikotoHelper_1.3.6_iphoneos-arm64_rootless.deb
+Filename: ./debs/MikotoHelper_1.3.6_iphoneos-arm64_rootless.deb
 Size: 20604072
 MD5sum: cb60bc3156b4928283a4fd2d81a92ea7
 SHA1: fdf3301a350e187a3fcf5502af6e690d7c204707
@@ -931,7 +931,7 @@ Version: 1.1.8-1
 Architecture: iphoneos-arm64
 Maintainer: WeChat
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./com.tencent.themebox_1.1.8-1_iphoneos-arm64.deb
+Filename: ./debs/com.tencent.themebox_1.1.8-1_iphoneos-arm64.deb
 Size: 3024412
 MD5sum: b3e01e9dc9264231dd19b8a08f974547
 SHA1: 52b6cb7fdf5481c6fbec474b170714c81a32fd5a
@@ -946,7 +946,7 @@ Version: 1.22.6
 Architecture: iphoneos-arm64
 Maintainer: Procursus Team <support@procurs.us>
 Depends: dpkg (= 1.22.6), libdpkg-perl (= 1.22.6)
-Filename: ./dpkg-dev_1.22.6_iphoneos-arm64.deb
+Filename: ./debs/dpkg-dev_1.22.6_iphoneos-arm64.deb
 Size: 1072836
 MD5sum: f3d5aead8a7ac9abd74c88b086dfe243
 SHA1: 5bde153b0c4e9bc780141a2bafc8eeead3160f1a
@@ -964,7 +964,7 @@ Architecture: iphoneos-arm64
 Maintainer: Procursus Team <support@procurs.us>
 Depends: perl, libdpkg-perl
 Suggests: fakeroot
-Filename: ./dpkg-repack_1.52_iphoneos-arm64.deb
+Filename: ./debs/dpkg-repack_1.52_iphoneos-arm64.deb
 Size: 15476
 MD5sum: 6b7b83e341287d6de3e5e2fc77fac31e
 SHA1: a0f1047700408d9da439fe2524fb57b1122c036d
@@ -987,7 +987,7 @@ Version: 1.22.6
 Architecture: iphoneos-arm64
 Maintainer: Procursus Team <support@procurs.us>
 Depends: liblzma-dev, libzstd-dev
-Filename: ./libdpkg-dev_1.22.6_iphoneos-arm64.deb
+Filename: ./debs/libdpkg-dev_1.22.6_iphoneos-arm64.deb
 Size: 257664
 MD5sum: 741e70fe923ec9be1460059c03f2caf9
 SHA1: f70d4278ee9d0aeead7f6e938f73274523a442a7
@@ -1010,7 +1010,7 @@ Depends: dpkg (= 1.22.6), perl
 Conflicts: dpkg-perl (<< 1:0), dpkg-dev (<< 1.22.6)
 Replaces: dpkg-perl
 Provides: dpkg-perl (= 1.22.6)
-Filename: ./libdpkg-perl_1.22.6_iphoneos-arm64.deb
+Filename: ./debs/libdpkg-perl_1.22.6_iphoneos-arm64.deb
 Size: 423440
 MD5sum: c72c4b9ec48122b449dacf4876a262fa
 SHA1: b50d8144474fca51ab35517f1b6f9ded60bcd44d
@@ -1074,7 +1074,7 @@ Architecture: iphoneos-arm64
 Maintainer: Procursus Team <support@procurs.us>
 Depends: liblz4-1 (= 1.9.4)
 Conflicts: lz4 (<< 1.9.4)
-Filename: ./liblz4-dev_1.9.4_iphoneos-arm64.deb
+Filename: ./debs/liblz4-dev_1.9.4_iphoneos-arm64.deb
 Size: 186536
 MD5sum: 59434fb270e05956fcb7503f99c2c0d8
 SHA1: ff8dfccc0195aac14fe75883cdebff5bcee90ce7
@@ -1090,7 +1090,7 @@ Maintainer: Procursus Team <support@procurs.us>
 Depends: liblzma5 (>= 5.4.4)
 Conflicts: xz (<< 1:0), lzma (<< 3:0)
 Replaces: xz, lzma
-Filename: ./liblzma-dev_5.4.4_iphoneos-arm64.deb
+Filename: ./debs/liblzma-dev_5.4.4_iphoneos-arm64.deb
 Size: 194424
 MD5sum: 93bcc537feef8d5bf345d20b1df6d861
 SHA1: 8f802769b55a1d4fe9d8a10ea2f48d6423e74687
@@ -1113,7 +1113,7 @@ Version: 1.5.5
 Architecture: iphoneos-arm64
 Maintainer: Procursus Team <support@procurs.us>
 Depends: libzstd1 (= 1.5.5), liblzma-dev, liblz4-dev
-Filename: ./libzstd-dev_1.5.5_iphoneos-arm64.deb
+Filename: ./debs/libzstd-dev_1.5.5_iphoneos-arm64.deb
 Size: 704784
 MD5sum: 10b0af48b62d0c5c9274ccf793d1802c
 SHA1: b54c57ebe7d127399ae16c759827815a7ccf0f9d
@@ -1130,7 +1130,7 @@ Version: 5.32.1
 Architecture: iphoneos-arm64
 Maintainer: Procursus Team <support@procurs.us>
 Depends: libiosexec1 (>= 1.2.2)
-Filename: ./perl_5.32.1_iphoneos-arm64.deb
+Filename: ./debs/perl_5.32.1_iphoneos-arm64.deb
 Size: 7670852
 MD5sum: 516117a39214ca0b3ce95cc200211967
 SHA1: 21742685bdda20463035cdbb7fc18a5cfccec062
