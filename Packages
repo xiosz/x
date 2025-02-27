@@ -951,7 +951,7 @@ Size: 1072836
 MD5sum: f3d5aead8a7ac9abd74c88b086dfe243
 SHA1: 5bde153b0c4e9bc780141a2bafc8eeead3160f1a
 SHA256: 5e14c3aa4608c03e19c66c4db202d8e8ce9c278ab7b3e0bb0a6d969f85944688
-Section: Packaging
+Section: 终端
 Priority: optional
 Homepage: http://wiki.debian.org/Teams/Dpkg
 Description: Debian package development tools
@@ -969,7 +969,7 @@ Size: 15476
 MD5sum: 6b7b83e341287d6de3e5e2fc77fac31e
 SHA1: a0f1047700408d9da439fe2524fb57b1122c036d
 SHA256: e71c431c2c1c02087f3143b601d4ef0b96c5e715a9623d2c99996ea2e238297e
-Section: Utilities
+Section: 终端
 Priority: standard
 Description: Debian package archiving tool
  dpkg-repack creates a .deb file out of a package that has already been
@@ -992,7 +992,7 @@ Size: 257664
 MD5sum: 741e70fe923ec9be1460059c03f2caf9
 SHA1: f70d4278ee9d0aeead7f6e938f73274523a442a7
 SHA256: 108d8b82732015fc427866c67352718bb59df2356fd0dd0dd44f4d5c13978c99
-Section: Packaging
+Section: 终端
 Priority: optional
 Homepage: http://wiki.debian.org/Teams/Dpkg
 Description: Debian package management static library
@@ -1015,7 +1015,7 @@ Size: 423440
 MD5sum: c72c4b9ec48122b449dacf4876a262fa
 SHA1: b50d8144474fca51ab35517f1b6f9ded60bcd44d
 SHA256: 64c3d68c33b17d42adbf12002677656d09dd044bec7d4b16d01392126613c889
-Section: Packaging
+Section: 终端
 Priority: optional
 Homepage: http://wiki.debian.org/Teams/Dpkg
 Description: Dpkg perl modules
@@ -1079,7 +1079,7 @@ Size: 186536
 MD5sum: 59434fb270e05956fcb7503f99c2c0d8
 SHA1: ff8dfccc0195aac14fe75883cdebff5bcee90ce7
 SHA256: 1cb0a8fb796f3daf75d2570822e3a185e5968effad689b2d4d44c9176c1bb91b
-Section: Development
+Section: 终端
 Homepage: http://tukaani.org/lzma/
 Description: Fast LZ compression algorithm library - development files
 
@@ -1095,7 +1095,7 @@ Size: 194424
 MD5sum: 93bcc537feef8d5bf345d20b1df6d861
 SHA1: 8f802769b55a1d4fe9d8a10ea2f48d6423e74687
 SHA256: 191f7bc4585a05b5e80ad6c85840ee6babda5267027a715ae9047edd4fff9721
-Section: Development
+Section: 终端
 Priority: standard
 Homepage: https://tukaani.org/xz/
 Description: XZ-format compression library - development files
@@ -1118,7 +1118,7 @@ Size: 704784
 MD5sum: 10b0af48b62d0c5c9274ccf793d1802c
 SHA1: b54c57ebe7d127399ae16c759827815a7ccf0f9d
 SHA256: 086299750769cc60463639c271c9bae6fae17cfa75b279aefbfc801acedb47ea
-Section: Development
+Section: 终端
 Description: fast lossless compression algorithm -- development files
  Zstd, short for Zstandard, is a fast lossless compression algorithm, targeting
  real-time compression scenarios at zlib-level compression ratio.
@@ -1135,7 +1135,7 @@ Size: 7670852
 MD5sum: 516117a39214ca0b3ce95cc200211967
 SHA1: 21742685bdda20463035cdbb7fc18a5cfccec062
 SHA256: 54af1a1434c14b051e30dde9e69e99a641abf6f0e07cad0a43cfd7a68c846150
-Section: Scripting
+Section: 终端
 Priority: optional
 Homepage: http://dev.perl.org/perl5/
 Description: Larry Wall's Practical Extraction and Report Language
@@ -1150,5 +1150,3 @@ Description: Larry Wall's Practical Extraction and Report Language
  development. Some of these modules include Web frameworks, database
  integration, networking protocols, and encryption. Perl provides
  interfaces to C and C++ for custom extension development.
-
-
