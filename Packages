@@ -1150,3 +1150,22 @@ Description: Larry Wall's Practical Extraction and Report Language
  development. Some of these modules include Web frameworks, database
  integration, networking protocols, and encryption. Perl provides
  interfaces to C and C++ for custom extension development.
+
+Package: com.nwzj.hooktcs
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 逆无止境
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.1aaa1.1aaa3, com.yourepo.huayuarc.1aaa3, byg.iosios.net.tucengpojie
+Filename: ./com.nwzj.hooktcs_1.0_iphoneos-arm64.deb
+Size: 90452
+MD5sum: d7d3a19bc0d16c7ef61cbaa42d14524b
+SHA1: 771e66be3a6be687dce48f39fefd804fbeb1da04
+SHA256: 833ff5ae8a85f8954ae2123b0b46e4554262c254664aa7e47a6eb45ad36d1fd9
+Section: 其他应用插件
+Description: 删除图层时间限制，屏蔽服务器远程闪退
+Author: 逆无止境
+Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
+Name: 逆无止境图层 1aaa3
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
+
