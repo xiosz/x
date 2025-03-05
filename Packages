@@ -1157,7 +1157,7 @@ Architecture: iphoneos-arm64
 Maintainer: 逆无止境
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.1aaa1.1aaa3, com.yourepo.huayuarc.1aaa3, byg.iosios.net.tucengpojie
-Filename: ./com.nwzj.hooktcs_1.0_iphoneos-arm64.deb
+Filename: ./debs/com.nwzj.hooktcs_1.0_iphoneos-arm64.deb
 Size: 90452
 MD5sum: d7d3a19bc0d16c7ef61cbaa42d14524b
 SHA1: 771e66be3a6be687dce48f39fefd804fbeb1da04
