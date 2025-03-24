@@ -17,7 +17,7 @@ Description: 微信插件管理
  * 收纳第三方微信插件
  * 位于微信右下角“我”-“插件”
  * 部分微信插件不支持收纳
-Author: Mao
+Author: 小泽
 Icon: https://TrollStoreX.Github.io/sileodepiction/wcplugins/icon.png
 Name: 微信插件管理
 Sponsor:小泽
@@ -33,7 +33,7 @@ MD5sum: d1954e4dc2b6481059e3a9b26a1f1ab9
 SHA1: c207f12454d036adc30a516c950f192668601ee7
 SHA256: 215d2d19cbf6f5d75ba5a04062e250e63a2854f8953b1f2381eacb7a55ba38a1
 Section: 系统增强
-Description: 又一款分屏插件，小编个人不太喜欢这种分屏方式，但是也有不少人用户喜欢，效果如截图介绍所示，大家可以试试，觉得不好用的可以缷载！开启教程如下：看第一张截图照片手势介绍，右侧最下面往左侧最下面滑，就出来设置项了，然后自己研究怎么进行设置！感觉不太好用，喜欢的小伙们就使用吧！小泽源一直在为用户着想，希望大家多多分享，更新才快！
+Description: 一款分屏插件
 Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: App Lecard分屏-Rootless
