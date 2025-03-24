@@ -1178,7 +1178,7 @@ Size: 12508000
 MD5sum: 1ed767113dc98e96d3c2d958fcf8f43c
 SHA1: 10cb6053602262beee1edf0795e701def50a5a9f
 SHA256: 9cce61cdd4028bcd236b1ab57564cbba54bfec3f14cc3bbacb1a7c927f24c351
-Section: Tweaks
+Section: 微信插件
 Priority: optional
 Description: 微信助手-Rootless版
 Author: Mao
@@ -1194,7 +1194,7 @@ Size: 816228
 MD5sum: 3f720eec55b2717acc18042fc72aa259
 SHA1: 9fa286d6237c6736af93b7babed5b91ef058fe5f
 SHA256: 6df6d931444685226cbaba038c95d6d4b2578bd35d015f69df457980d6886c60
-Section: PKC-插件
+Section: 微信插件
 Priority: optional
 Homepage: https://github.com/curtinlv
 Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
@@ -1230,7 +1230,7 @@ Size: 108052
 MD5sum: 5f77a5be6c678597517f08f33d413ce1
 SHA1: 9267262991241e03cfc5463c310c8b486c54e694
 SHA256: 6fb8dcd22c0083c4be41a4f0841d861986ba27c400a5beb07f644e1073149a4e
-Section: 抖音插件
+Section: 其他应用插件
 Priority: optional
 Description: huami 抖音增强插件
  * 双指长按打开插件
@@ -1250,7 +1250,7 @@ Size: 3903962
 MD5sum: c4087f2a6aa4c9e331a191d7939bbe10
 SHA1: b348e90c4d56b985e0fbf2b2452b144544030fc9
 SHA256: 1a559448a00c04e9d426ec4fe9be233f32b0591f264135ed9a0687d4c0c1efc3
-Section: Tweaks
+Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
 Name: 主题盒子
