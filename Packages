@@ -26,7 +26,7 @@ Size: 13424
 MD5sum: ec91296539557989cfb1cef48a587809
 SHA1: d1aefc64ab21d5fda4cbce3375d0be7c001bc37d
 SHA256: 7eab9d8d5726cef856ccd28e2ba8e15e7c80b3584325a33e14bce9560c2e759f
-Section: 终端
+Section: 系统终端
 Description: 众所周知iOS15-iOS16多巴胺是无根越狱，就是没有修改系统目录的权限，可以理解为没办法直接换字体！本插件是多巴胺挂载工具，配合终端软件，可以挂载系统目录，进行系统字体更换或者其它功能，不懂的可以进小泽源里看教程如何使用！挂载映射换字体比滑雪板好用！因为是全局替换！但是你别问我一些奇奇怪怪的路径，我也不知道！小泽源一直在用心为用户服务！
 Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -61,7 +61,7 @@ Size: 3736
 MD5sum: 18e31b59c7e25dcb50cbdcd7ba16344c
 SHA1: 852af228bea02862241590cee8f38605b5d28c42
 SHA256: 21f3275e1b18e6309011483131de859d3f47c10eab81e67f61fdcddd13f3f4ee
-Section: 汉化
+Section: 插件汉化
 Description: 为软件屏蔽越狱检测Choicy 提供简体中文，基本上各个版本的choicy都可汉化、通用，放心使用！无法更新choicy请先更新完插件之后再安装汉化插件！
 Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -139,7 +139,7 @@ Size: 949340
 MD5sum: b11e26bfa4bef145732cd956dca5c728
 SHA1: 2b75b52321ba68dda92d30b0052bcb222ee263a2
 SHA256: 4ac6ba7978c2665ca5f53c0d42201399f8a354ae89e7aa8c8fdd16f82fe94e19
-Section: 其他应用插件
+Section: 应用插件
 Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片。
 Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -175,7 +175,7 @@ Size: 504576
 MD5sum: 4c47200313e377e7b3faf4cc763bc3a3
 SHA1: 98d7d000c4d3ebc336c554821ed2bdea26cd4d08
 SHA256: a9b052ed5fad7a27ebc4a246c12c79753630572ae8ea03cb4692fbcd905036bd
-Section: 终端
+Section: 系统终端
 Description: 一款iPhone可以用的终端软件
 Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -252,7 +252,7 @@ Size: 4832
 MD5sum: aa5ebb71aba7905cb6ab198d4cc96cd5
 SHA1: 5a587a768852b67a17b17a3aeda0a57ab7e7847d
 SHA256: b293dfb977bedc46c8a9564b1541bb9c9fd26d553ab6fccaa385f6270489ad4d
-Section: 汉化
+Section: 插件汉化
 Description: UnderDock 简体中文包(rootless)。
 Author: 小泽
 Name: UnderDock 简体中文包(rootless)
@@ -267,7 +267,7 @@ Size: 1332
 MD5sum: 0d5ba9cb44b7903733767c5b3cbcb5fe
 SHA1: ae84c5263a5bd5f9c8b4074039a773bce94cefc8
 SHA256: 9bbb0c87b6492ffebd2c6745011dc500fb52a0ebc405de211db7b6002bba5ef2
-Section: 汉化
+Section: 插件汉化
 Description: FloatingDockXVI 简体中文包(rootless)。
 Author: 小泽
 Name: FloatingDockXVI 简体中文包(rootless)
@@ -282,7 +282,7 @@ Size: 8688
 MD5sum: 42a6a0ccdf16f6413788eacfe7b84e6c
 SHA1: 66667332eb09e68f2f4429c5463cd8110287dc9b
 SHA256: 01cc108204b31753d548bfd4f756981e7ca6d66ace87ca4b8fc73561b64ff213
-Section: 汉化
+Section: 插件汉化
 Description: SettingsRevamp 简体中文包(rootless)。
 Author: 小泽
 Name: SettingsRevamp 简体中文包(rootless)
@@ -313,7 +313,7 @@ Size: 54520
 MD5sum: 31abca2cb66a22ab8b2448ce2c845403
 SHA1: 043856c36a629a3780041a873cf9a8928f447358
 SHA256: 54b5797d04d281353ef7a3c80c094fb1f6dfd9ea20a0f78d7b497a6e61ffc3db
-Section: 依赖
+Section: 插件依赖
 Description: An awesome library of some sort!!
 Tag: role::developer
 Author: 小泽
@@ -363,7 +363,7 @@ Size: 52072
 MD5sum: 90cf4b92c6894441cc0e0aca4c97d17a
 SHA1: 90e0ea88be4a4415b88252059e630c73723a5698
 SHA256: 4b56d62d6e008a19911ea215c905e5f31e156cac71ecce52d7de327cd576e2f8
-Section: 依赖
+Section: 插件依赖
 Priority: optional
 Description: DobbyHook Substrate Shim
 Author: 小泽
@@ -464,7 +464,7 @@ Size: 732932
 MD5sum: a123d541a4e6f196f5767199fdafc9b2
 SHA1: 69159cdf879de3118355631ff8378a9dbd522ab6
 SHA256: c06ae01a0b08f212a0f8f284dd5d13820183d163717ce4557ea9d3735c0a9ac4
-Section: 依赖
+Section: 插件依赖
 Description: nice插件依赖组件.
 Author: niceios
 Name: NiceHelper【Rootless】
@@ -480,7 +480,7 @@ Size: 27004
 MD5sum: d2e7ce0580f04745c050d6e4575326c0
 SHA1: b927812c8ecb1f638f189694f71777fa0848b227
 SHA256: c4000da923960bacb2f79f47a5a1ef101892edcb80566041e53d91c9e0f8ce18
-Section: 依赖
+Section: 插件依赖
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
 Description: A modern AppList alternative
 Tag: purpose::library
@@ -503,7 +503,7 @@ Size: 59092
 MD5sum: cca16f7ed60fe749d41f81ee9fd9cec5
 SHA1: ba2bdb11d662b777dd3045ca84582e6363d29f50
 SHA256: 2304731984c831d7af337cd293cdee4c86bb1599b345c0b0993205d4178d94dc
-Section: 依赖
+Section: 插件依赖
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Description: Support tweak for CC modules!
 Tag: purpose::extension
@@ -545,7 +545,7 @@ Size: 12520
 MD5sum: b611be7bb3350c76fa9afee9422ace2f
 SHA1: aef25a37adb7c1d8a923cfacea9247dbbc39f9af
 SHA256: 8d4db810489928726f4e40ba9976b740f7315db3f01b18703a6241d516578f87
-Section: 依赖
+Section: 插件依赖
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
 Description: Securely extend the sandbox of system processes and user applications
 Tag: purpose::extension, role::developer
@@ -564,7 +564,7 @@ Size: 8004
 MD5sum: be9cecef53f930753464ffe2ed66ef91
 SHA1: 4c7da09b348ee8ddafd6f1594bb750e02147a889
 SHA256: e76cb8e9c4bf07ebc92b50a1ef19b3033a7a5ac7f9f716846dfd632f116b15e6
-Section: 依赖
+Section: 插件依赖
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libundirectDp
 Description: Patchfinder and rebinder for objc_direct methods
 Tag: purpose::library
@@ -632,7 +632,7 @@ Size: 2672096
 MD5sum: 50877b5dced8be7420c5c22bd8abdac9
 SHA1: b07451e1f2d5b1e8e4746b4831133fcd1e6f7a85
 SHA256: 936e33e04a1d4bbb5f92c527be7b9b0b69d73fe7de3e5887ecda29c1de2f07a0
-Section: 其他应用插件
+Section: 应用插件
 Description: 抖音多功能增强插件
  * 无水印下载视频/图片/LivePhoto
  * 隐藏各种元素按钮文字等功能
@@ -652,7 +652,7 @@ Size: 906092
 MD5sum: c014521c131fcf102f2c4f548aaf9174
 SHA1: 3427ab672805358b6fb4ef7323751625ca3e960b
 SHA256: 96ec464ad799a0bfae704c47837c8e6506476150eb34c09fd55ec554838313d7
-Section: 其他应用插件
+Section: 应用插件
 Description: 小红书增强插件
  * 默认移除一些广告
  * 无水印保存图片、视频、live图、评论区图片，长按复制文案
@@ -674,7 +674,7 @@ Size: 93584
 MD5sum: e31b57802adc6c363ae98eb95723b0c8
 SHA1: 23be0754d83f4baaa56ed1b0ba7f099a718d055d
 SHA256: b69f1ddf65a6a0dccf29f51d9be92670a5d895c68e21f4463836533c0fb7da56
-Section: 依赖
+Section: 插件依赖
 Description: Runtime for tweaks built using Orion and Swift
 Tag: role::developer, compatible_min::ios14.0
 Author: 小泽
@@ -692,7 +692,7 @@ Size: 3476
 MD5sum: e9d00dab11b0dbc83c1d169f1f913214
 SHA1: 44e9b41937335ccf657cec71408dc6a05da21492
 SHA256: 6098cd68e3f16285edea0a8a8d3bbdfbc7d0f50aa0171a3b5267b01aca3020d8
-Section: 终端
+Section: 系统终端
 Priority: important
 Description: secure shell client and server (metapackage)
 
@@ -708,7 +708,7 @@ Size: 549752
 MD5sum: 3fac2188a5e86a4a7e56b1c220016e16
 SHA1: 8f0879ee3c2182279c2c6d25ec676ef0de24f5e2
 SHA256: 668e5fe0266fc00456a7ef96ea5b5e39d11f5ac3ecaa28304230bdb1cbdc4f57
-Section: 终端
+Section: 系统终端
 Priority: important
 Description: secure shell (SSH) client, for secure access to remote machines
 Conffiles:
@@ -726,7 +726,7 @@ Size: 292380
 MD5sum: 0943ce85ac82ea4ccd58213d868a3678
 SHA1: a2f84bb1cdf1750795f383b80c15884df2ffd028
 SHA256: c86c5b917f463df18c8e0b9fb15a67222f246992ab2ea75b282b1949ec22a2cc
-Section: 终端
+Section: 系统终端
 Priority: important
 Description: secure shell (SSH) server, for secure access from remote machines
 Conffiles:
@@ -746,7 +746,7 @@ Size: 32224
 MD5sum: f48e1a91bba0970346d92df0a4ac2782
 SHA1: a7eac6bdd9ac3871e1ee4284242edd7555703ded
 SHA256: 65f825b4e6f02b3be7aa34dc75c689cdb7e21fb11b85b91cf90677e08be4ea8d
-Section: 终端
+Section: 系统终端
 Priority: important
 Description: secure shell (SSH) sftp server module, for SFTP access from remote machines
 
@@ -760,7 +760,7 @@ Size: 19200
 MD5sum: eb5883f51c4f0a11f1f3536ec873c2d8
 SHA1: 22201fc9b3551be5e1f4eabe99081aced8e307c5
 SHA256: 729d0a24252130a8a0ee5f77669a3ba05179a5074862cb650399f66f58fa4ce1
-Section: 依赖
+Section: 插件依赖
 Description: load preferences in style
 Author: 小泽
 Name: PreferenceLoader
@@ -775,7 +775,7 @@ Size: 333844
 MD5sum: 18579eebc2c572b7a69ef2f12a40dff5
 SHA1: b60ae97b92a8b615607a1bfb390e042e31b20f7d
 SHA256: ddbe8749c360379103ed64b20109d55a7cdb5c6958f0cc154d97f6f39eed3276
-Section: 其他应用插件
+Section: 应用插件
 Description: 威锋会员VIP，去掉广告，理论支持7.0以上版本。
 Name: 威锋VIP_rootless
 
@@ -791,7 +791,7 @@ Size: 3839816
 MD5sum: f69d679b7f8e2856a80dee5fba98af88
 SHA1: ecaba25442739bd01dd58a6fc0358514a69931ba
 SHA256: dc232e9c7534fcac038195bb90c6924b8c6495ded6eb58666cd1a0e4fc9379b0
-Section: 终端
+Section: 系统终端
 Description: Powerful terminal app for iOS
 Tag: compatible_min::ios14.0
 Author: 小泽
@@ -844,7 +844,7 @@ Size: 333916
 MD5sum: 4c3e58ffa18e118225aa4bc6e62d9ac1
 SHA1: 431f992676b5440f9e056b23e6ea6a337c2f3bd9
 SHA256: 26a5ed5e6a441ad21931e61e49ad031a0371d128196f50f8731b9740cdbee4f6
-Section: 其他应用插件
+Section: 应用插件
 Description: 去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.1及之后的版本！FuckYourAds！去他妈的广告!还你干净体验！开启会员功能!点亮会员头像!更新支持7.0.3
 Author: 小果子
 Name: 威锋FuckVIP-Ads
@@ -894,7 +894,7 @@ Size: 1072836
 MD5sum: f3d5aead8a7ac9abd74c88b086dfe243
 SHA1: 5bde153b0c4e9bc780141a2bafc8eeead3160f1a
 SHA256: 5e14c3aa4608c03e19c66c4db202d8e8ce9c278ab7b3e0bb0a6d969f85944688
-Section: 终端
+Section: 系统终端
 Priority: optional
 Homepage: http://wiki.debian.org/Teams/Dpkg
 Description: Debian package development tools
@@ -912,7 +912,7 @@ Size: 15476
 MD5sum: 6b7b83e341287d6de3e5e2fc77fac31e
 SHA1: a0f1047700408d9da439fe2524fb57b1122c036d
 SHA256: e71c431c2c1c02087f3143b601d4ef0b96c5e715a9623d2c99996ea2e238297e
-Section: 终端
+Section: 系统终端
 Priority: standard
 Description: Debian package archiving tool
  dpkg-repack creates a .deb file out of a package that has already been
@@ -935,7 +935,7 @@ Size: 257664
 MD5sum: 741e70fe923ec9be1460059c03f2caf9
 SHA1: f70d4278ee9d0aeead7f6e938f73274523a442a7
 SHA256: 108d8b82732015fc427866c67352718bb59df2356fd0dd0dd44f4d5c13978c99
-Section: 终端
+Section: 系统终端
 Priority: optional
 Homepage: http://wiki.debian.org/Teams/Dpkg
 Description: Debian package management static library
@@ -958,7 +958,7 @@ Size: 423440
 MD5sum: c72c4b9ec48122b449dacf4876a262fa
 SHA1: b50d8144474fca51ab35517f1b6f9ded60bcd44d
 SHA256: 64c3d68c33b17d42adbf12002677656d09dd044bec7d4b16d01392126613c889
-Section: 终端
+Section: 系统终端
 Priority: optional
 Homepage: http://wiki.debian.org/Teams/Dpkg
 Description: Dpkg perl modules
@@ -1022,7 +1022,7 @@ Size: 186536
 MD5sum: 59434fb270e05956fcb7503f99c2c0d8
 SHA1: ff8dfccc0195aac14fe75883cdebff5bcee90ce7
 SHA256: 1cb0a8fb796f3daf75d2570822e3a185e5968effad689b2d4d44c9176c1bb91b
-Section: 终端
+Section: 系统终端
 Homepage: http://tukaani.org/lzma/
 Description: Fast LZ compression algorithm library - development files
 
@@ -1038,7 +1038,7 @@ Size: 194424
 MD5sum: 93bcc537feef8d5bf345d20b1df6d861
 SHA1: 8f802769b55a1d4fe9d8a10ea2f48d6423e74687
 SHA256: 191f7bc4585a05b5e80ad6c85840ee6babda5267027a715ae9047edd4fff9721
-Section: 终端
+Section: 系统终端
 Priority: standard
 Homepage: https://tukaani.org/xz/
 Description: XZ-format compression library - development files
@@ -1061,7 +1061,7 @@ Size: 704784
 MD5sum: 10b0af48b62d0c5c9274ccf793d1802c
 SHA1: b54c57ebe7d127399ae16c759827815a7ccf0f9d
 SHA256: 086299750769cc60463639c271c9bae6fae17cfa75b279aefbfc801acedb47ea
-Section: 终端
+Section: 系统终端
 Description: fast lossless compression algorithm -- development files
  Zstd, short for Zstandard, is a fast lossless compression algorithm, targeting
  real-time compression scenarios at zlib-level compression ratio.
@@ -1078,7 +1078,7 @@ Size: 7670852
 MD5sum: 516117a39214ca0b3ce95cc200211967
 SHA1: 21742685bdda20463035cdbb7fc18a5cfccec062
 SHA256: 54af1a1434c14b051e30dde9e69e99a641abf6f0e07cad0a43cfd7a68c846150
-Section: 终端
+Section: 系统终端
 Priority: optional
 Homepage: http://dev.perl.org/perl5/
 Description: Larry Wall's Practical Extraction and Report Language
@@ -1105,7 +1105,7 @@ Size: 90452
 MD5sum: d7d3a19bc0d16c7ef61cbaa42d14524b
 SHA1: 771e66be3a6be687dce48f39fefd804fbeb1da04
 SHA256: 833ff5ae8a85f8954ae2123b0b46e4554262c254664aa7e47a6eb45ad36d1fd9
-Section: 其他应用插件
+Section: 应用插件
 Description: 删除图层时间限制，屏蔽服务器远程闪退
 Author: 逆无止境
 Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
@@ -1172,7 +1172,7 @@ Size: 108052
 MD5sum: 5f77a5be6c678597517f08f33d413ce1
 SHA1: 9267262991241e03cfc5463c310c8b486c54e694
 SHA256: 6fb8dcd22c0083c4be41a4f0841d861986ba27c400a5beb07f644e1073149a4e
-Section: 其他应用插件
+Section: 应用插件
 Priority: optional
 Description: huami 抖音增强插件
  * 双指长按打开插件
