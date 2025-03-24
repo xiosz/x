@@ -163,24 +163,6 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 微信Misaka助手-Rootless
 Sponsor: 小泽
 
-Package: byg.iosios.net.miyou.rootless
-Version: 3.8-1
-Architecture: iphoneos-arm64
-Maintainer: 小泽
-Depends: firmware (>= 5.0)
-Filename: ./debs/byg.iosios.net.miyou.rootless_3.8-1_iphoneos-arm64.deb
-Size: 9026892
-MD5sum: aaeb51edbb8fdbc99887168a7c6460fc
-SHA1: e44451e54c0faf085781db991909dafb7a3cfeae
-SHA256: f1ba402b9df6c61d30164d76f8098d07e83c26b5685edefbdd6ff9b6bbdc93d3
-Section: 微信插件
-Priority: optional
-Description: 微信助手-Rootless版。抢红包，callkit，换主题，转发语音等等功能，非常好用，源主力推！
-Author: 小泽
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 微信助手-Rootless
-Sponsor: 小泽
-
 Package: byg.iosios.net.mterminal-rootless
 Version: 1.4-1
 Architecture: iphoneos-arm64
@@ -259,25 +241,6 @@ Name: 微信插件管理
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/wcplugins/js.json
 Sponsor: admin@25mao.com
 
-Package: com.curtin.pkc.rootless
-Version: 0.6-8
-Architecture: iphoneos-arm64
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/com.curtin.pkc.rootless_0.6-8_iphoneos-arm64.deb
-Size: 782880
-MD5sum: 90da67534681b27340a6770ee6f97b80
-SHA1: 5c59e38dbf2add353e83459778a7c4c1d2a8bf72
-SHA256: 89f97d70bf4f27b54f0081044f0b7963839316ed76aff777a4907fa6e0e24df3
-Section: 微信插件
-Priority: optional
-Homepage: Axs
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: 小泽
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: PKC_无根
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/PKC/js.json
-
 Package: com.dao.underdock.cn
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -293,26 +256,6 @@ Section: 汉化
 Description: UnderDock 简体中文包(rootless)。
 Author: 小泽
 Name: UnderDock 简体中文包(rootless)
-
-Package: com.dumpapp.wechat-rootlesss
-Version: 2.0.4
-Architecture: iphoneos-arm64
-Maintainer: WeChat
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
-Filename: ./debs/com.dumpapp.wechat-rootlesss_2.0.4_iphoneos-arm64.deb
-Size: 9235336
-MD5sum: 2c03003caaea931601c99991fcec3080
-SHA1: 6f208fe4899baba6309a13de70560a46588fe904
-SHA256: 56b491553f7103aed2c52fdd7db8d6355138816b7ceb62a74f9c998e84827568
-Section: 微信插件
-Description: 微信多功能插件
- * 1:1 复刻“微信净化”插件，功能一模一样
- * ⚠️注意：不可与“微信净化”共存
-Author: 小泽
-Icon: https://TrollStoreX.Github.io/sileodepiction/DumpApp/icon.png
-Name: 锤子助手
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DumpApp/js.json
 
 Package: com.hk.floatingdock16.cn.rl
 Version: 2.3
@@ -1182,7 +1125,7 @@ Section: 微信插件
 Priority: optional
 Description: 微信助手-Rootless版
 Author: Mao
-Name: 微信助手-Rootless
+Name: 微信助手
 
 Package: com.curtin.pkc.rootless
 Version: 0.7-0
@@ -1217,7 +1160,6 @@ Description: 1:1 复刻“微信净化”插件，保留红包功能。注意：
 Author: DumpApp
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 锤子助手
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/dumpapp/js.json
 
 Package: com.huami.dyyys
 Version: 2.1-7
@@ -1237,7 +1179,6 @@ Description: huami 抖音增强插件
 Author: huami
 Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
 Name: 抖音 DYYY
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
 Package: com.tencent.themebox
 Version: 2.0.0-1
@@ -1254,4 +1195,3 @@ Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
 Name: 主题盒子
-
