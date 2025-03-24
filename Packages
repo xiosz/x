@@ -1173,7 +1173,7 @@ Version: 3.8-3
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: ./微信助手_3.8-3_无根.deb
+Filename: ./debs/微信助手_3.8-3_无根.deb
 Size: 12508000
 MD5sum: 1ed767113dc98e96d3c2d958fcf8f43c
 SHA1: 10cb6053602262beee1edf0795e701def50a5a9f
@@ -1189,7 +1189,7 @@ Version: 0.7-0
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: ./PKC_无根_0.7-0.deb
+Filename: ./debs/PKC_无根_0.7-0.deb
 Size: 816228
 MD5sum: 3f720eec55b2717acc18042fc72aa259
 SHA1: 9fa286d6237c6736af93b7babed5b91ef058fe5f
@@ -1207,7 +1207,7 @@ Version: 2.0.6
 Architecture: iphoneos-arm64
 Maintainer: DumpApp
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./锤子助手_2.0.6_无根.deb
+Filename: ./debs/锤子助手_2.0.6_无根.deb
 Size: 10519892
 MD5sum: 7f659a5b7ac23dfbf80daab0f412c1cc
 SHA1: ee55d40d1c4df73c9270edf1d35b1bcd0b533348
@@ -1225,7 +1225,7 @@ Architecture: iphoneos-arm64
 Maintainer: huami
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
-Filename: ./com.huami.dyyys_2.1-7_iphoneos-arm64.deb
+Filename: ./debs/com.huami.dyyys_2.1-7_iphoneos-arm64.deb
 Size: 108052
 MD5sum: 5f77a5be6c678597517f08f33d413ce1
 SHA1: 9267262991241e03cfc5463c310c8b486c54e694
@@ -1245,7 +1245,7 @@ Architecture: iphoneos-arm64
 Maintainer: WeChat
 Installed-Size: 8116
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./主题盒子_2.0.0_无根.deb
+Filename: ./debs/主题盒子_2.0.0_无根.deb
 Size: 3903962
 MD5sum: c4087f2a6aa4c9e331a191d7939bbe10
 SHA1: b348e90c4d56b985e0fbf2b2452b144544030fc9
