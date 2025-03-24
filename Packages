@@ -122,7 +122,7 @@ Size: 983952
 MD5sum: dd14f3873670f1747800310f721c2e18
 SHA1: 61adb3ae7a5fc554908404c7e2c449f54ab71eca
 SHA256: fcca6e52ba76037e583a772bbd143d1ed3132057958ecd20e34de5d09079bb33
-Section: 越狱应用
+Section: 系统终端
 Description: The first real iOS system cleanup and management utility iOS最强的垃圾清理工具，此为官方破解版，全功能破解！有经济能力的，请支持一下大神！有问题群里反馈！
 Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -297,7 +297,7 @@ Size: 2323844
 MD5sum: 2a5ea1550a2fa9efe60a235cd2177526
 SHA1: bce014e55e2ae6cf1ce2a548d9d0dee58416cec3
 SHA256: 78ed551814732ed3a1b5778aa7be3b08ddb37f2bcab90c56bb5e91a23624315d
-Section: 越狱应用
+Section: 系统终端
 Description: An awesome SwiftUI application!
 Author: 预言小猫
 Name: MeowTimeMachine
