@@ -1200,12 +1200,12 @@ Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 848
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./DYYY.deb
+Filename: ./debs/DYYY.deb
 Size: 147176
 MD5sum: d01ac983cae3c7a7f3c0203554aafac9
 SHA1: 78a30d41e1283412a102ca50e343f1058f7a9ab4
 SHA256: 3dc6d15e75989a7e0ffd7916a06a574f199c266a70d7ba72697b258c44cadf07
-Section: Tweaks
+Section: 应用插件
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
