@@ -1159,25 +1159,6 @@ Author: DumpApp
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 锤子助手
 
-Package: com.huami.dyyys
-Version: 2.1-7
-Architecture: iphoneos-arm64
-Maintainer: huami
-Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
-Filename: ./debs/com.huami.dyyys_2.1-7_iphoneos-arm64.deb
-Size: 108052
-MD5sum: 5f77a5be6c678597517f08f33d413ce1
-SHA1: 9267262991241e03cfc5463c310c8b486c54e694
-SHA256: 6fb8dcd22c0083c4be41a4f0841d861986ba27c400a5beb07f644e1073149a4e
-Section: 应用插件
-Priority: optional
-Description: huami 抖音增强插件
- * 双指长按打开插件
-Author: huami
-Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
-Name: 抖音 DYYY
-
 Package: com.tencent.themebox
 Version: 2.0.0-1
 Architecture: iphoneos-arm64
