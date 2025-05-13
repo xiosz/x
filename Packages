@@ -86,30 +86,6 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: GoodWiFi16中文版-Rootless
 Sponsor: 小泽
 
-Package: com.hbwechathelper.ailuns
-Version: 1.8
-Architecture: iphoneos-arm64
-Maintainer: 小泽
-Depends: mobilesubstrate
-Filename: ./debs/com.hbwechathelper.ailuns_1.8_iphoneos-arm64.deb
-Size: 11226384
-MD5sum: 464b85126bc4e000efe1e836ee88c2db
-SHA1: 8939c1f79c630c9bc8f37fbc1b3108c6b363c4c0
-SHA256: a6c44263db92e5d739d1f74e69fc6cc9c3ff33ab7c1100f8fcabc36b56ac050a
-Section: 微信插件
-Description: 微信多功能插件
- * 一个微信插件文本转语音
- * 点歌朋友圈一键点赞等诸多功能
- * 发送网络语录舔狗日记骂人等文案
- * 4K原图手绘壁纸等
- * 抢私聊红包
- * 自定义信息尾巴
- * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，朋友圈转发，防撤回，转发语音，自定义拍一拍 百变小尾巴 实时尾巴时间等功能 此为内测版，很多功能要付费才行，大家自行决定！
-Author: 小泽
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 微信黄白助手-Rootless
-Sponsor: 小泽
-
 Package: byg.iosios.net.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64
@@ -197,23 +173,6 @@ Description: Delete and disable OTA badge安装此插件即可屏蔽系统更新
 Author: 小泽
 Icon: https://chinesebuilding.club/pic/cydia.png
 Name: OTADisabler屏蔽系统更新-Rootless
-Sponsor: 小泽
-
-Package: byg.iosios.net.releasefugu15
-Version: 5.9.7-5
-Architecture: iphoneos-arm64
-Maintainer: 小泽
-Depends: mobilesubstrate
-Filename: ./debs/byg.iosios.net.releasefugu15_5.9.7-5_iphoneos-arm64.deb
-Size: 500072
-MD5sum: f3c9812a84dbe5cb8087371a521ea29c
-SHA1: 07f686bdbb324b726b880990287812cf7d2cd05c
-SHA256: 2c05f4bfa9df8a854debd8ead8c2a1f04ab3828bccc595bc84a832c2591237cd
-Section: 微信插件
-Description: 把主题用filza放到对应文件夹，然后加载即可。主题包自己找，或者小泽源群文件里有几个，不多！不要再问怎么用，插件里都写的很清楚，动动你们的小脑袋，还不行就百度一下你就知道！
-Author: 小泽
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 酸果微信主题工具 - Rootless
 Sponsor: 小泽
 
 Package: com.25mao.wcplugins.rootlesss
@@ -605,21 +564,6 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 微信虚拟视频-Rootless
 Sponsor: 小泽
 
-Package: com.tencent.themebox
-Version: 1.1.3-1
-Architecture: iphoneos-arm64
-Maintainer: WeChat
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.tencent.themebox_1.1.3-1_iphoneos-arm64.deb
-Size: 2782224
-MD5sum: c21c94b1e5a7ae0f068483fc37a4390d
-SHA1: 691c76a46da813c1935ea3d8d1093cccaacc622d
-SHA256: 80bba13378e561c73dcf22601f693a04ba3650ad2081f1119d82ecf10a045569
-Section: 微信插件
-Description: 微信主题盒子
-Author: WeChat
-Name: 主题盒子
-
 Package: com.xx.dyhook
 Version: 2.1.0
 Architecture: iphoneos-arm64
@@ -867,21 +811,6 @@ Description: MikotoHelper
 Author: Mikoto
 Name: Misaka内测体验版
 
-Package: com.tencent.themebox
-Version: 1.1.8-1
-Architecture: iphoneos-arm64
-Maintainer: WeChat
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.tencent.themebox_1.1.8-1_iphoneos-arm64.deb
-Size: 3024412
-MD5sum: b3e01e9dc9264231dd19b8a08f974547
-SHA1: 52b6cb7fdf5481c6fbec474b170714c81a32fd5a
-SHA256: 043ef6cb0b00dada125e36c3f31bb6ddc52caf3bf078172d402627ee6d3bc5ae
-Section: 微信插件
-Description: 微信主题盒子
-Author: WeChat
-Name: 主题盒子
-
 Package: dpkg-dev
 Version: 1.22.6
 Architecture: iphoneos-arm64
@@ -1109,22 +1038,6 @@ Author: 逆无止境
 Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
 Name: 抖音图层破解依赖 1aaa3
 
-Package: com.25mao.miyou.rootless
-Version: 3.8-3
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/微信助手_3.8-3_无根.deb
-Size: 12508000
-MD5sum: 1ed767113dc98e96d3c2d958fcf8f43c
-SHA1: 10cb6053602262beee1edf0795e701def50a5a9f
-SHA256: 9cce61cdd4028bcd236b1ab57564cbba54bfec3f14cc3bbacb1a7c927f24c351
-Section: 微信插件
-Priority: optional
-Description: 微信助手-Rootless版
-Author: Mao
-Name: 微信助手
-
 Package: com.curtin.pkc.rootless
 Version: 0.7-0
 Architecture: iphoneos-arm64
@@ -1159,36 +1072,105 @@ Author: DumpApp
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 锤子助手
 
-Package: com.tencent.themebox
-Version: 2.0.0-1
+Package: byg.iosios.net.kayoko
+Version: 2.9
 Architecture: iphoneos-arm64
-Maintainer: WeChat
-Installed-Size: 8116
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/主题盒子_2.0.0_无根.deb
-Size: 3903962
-MD5sum: c4087f2a6aa4c9e331a191d7939bbe10
-SHA1: b348e90c4d56b985e0fbf2b2452b144544030fc9
-SHA256: 1a559448a00c04e9d426ec4fe9be233f32b0591f264135ed9a0687d4c0c1efc3
-Section: 微信插件
-Description: 微信主题盒子
-Author: WeChat
-Name: 主题盒子
+Maintainer: 小泽
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/byg.iosios.net.kayoko_2.9_iphoneos-arm64.deb
+Size: 128640
+MD5sum: 47826f0acba1f4acd444b36fa55628f7
+SHA1: 007f3ef780f231fc5c7a9d5e46ddcde3a50e848e
+SHA256: 890499443b3d9182766d7ccc510060be6d0eb4d82f7adb62586fd5ddb497f664
+Section: 系统增强
+Description: 一款剪贴板神器，类似于Copylog和Nicelog，但是这是一块免费插件，非常的好用！支持复制图片到另一个软件，棒！其他开发者编译纯自用。适配多巴胺，此版本修改设置可以生效，自带中文翻译！82flex修复支持iOS16，非常的好用且免费，有问题请等更新修复！
+Author: Traurige
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Kayoko剪贴板神器
+Sponsor: 小泽
 
-Package: com.huami.dyyy
-Version: 2.2-1
+Package: byg.iosios.net.releasefugu15
+Version: 5.9.8-1-1
+Architecture: iphoneos-arm64
+Maintainer: 小泽
+Depends: mobilesubstrate
+Filename: ./debs/byg.iosios.net.releasefugu15_5.9.8-1-1_iphoneos-arm64.deb
+Size: 508600
+MD5sum: b20a2afe74d9b09852a2e65b2d817979
+SHA1: da23d8bdaf2c23511de90cbccf5843c84c1d4f72
+SHA256: 436421c03dedf29fe8a16e50452bceb680278496d37fc88f42aa83e134ed5446
+Section: 微信插件
+Description: 把主题用filza放到对应文件夹，然后加载即可。主题包自己找，或者小泽源群文件里有几个，不多！不要再问怎么用，插件里都写的很清楚，动动你们的小脑袋，还不行就百度一下你就知道！
+Author: 苏兔
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 酸果微信主题工具
+Sponsor: 小泽
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-4
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.8-4_iphoneos-arm64.deb
+Size: 9296252
+MD5sum: d85d09e7b0f6b6e56869b2932f012fb9
+SHA1: f5238d1dc9ef4e1b93319fb840b13d32f67d796d
+SHA256: dee59172e3b363704cd224a7cb216579ba7a5108af5be37e8cefdca7d4a30412
+Section: 微信插件
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Name: 微信助手-Rootless
+Sponsor: 小泽
+
+Package: com.hbwechathelper.ailun
+Version: 1.8.5
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.hbwechathelper.ailun_1.8.5_iphoneos-arm64.deb
+Size: 11213996
+MD5sum: 1ee55e77816c225b2b27c88ebf6e56bf
+SHA1: 1fe6accada69b26d33434148eda3e8bc9b76eb2d
+SHA256: 594d72dcd0fae4a1447879f7d0e5e7bb779b2d4a06a113243f5986ce5178d450
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai
+Name: 黄白助手(微信插件)-Rootless
+
+Package: com.huami.dyyy.vita
+Version: 2.2-7
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 848
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/DYYY.deb
-Size: 147176
-MD5sum: d01ac983cae3c7a7f3c0203554aafac9
-SHA1: 78a30d41e1283412a102ca50e343f1058f7a9ab4
-SHA256: 3dc6d15e75989a7e0ffd7916a06a574f199c266a70d7ba72697b258c44cadf07
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/com.huami.dyyy.vita_2.2-7_iphoneos-arm64.deb
+Size: 394008
+MD5sum: b7e06d3b43cb83f0c4752131d441a545
+SHA1: 3e895bf53e53d7125a2ed9abb1c79cd0643a3b6c
+SHA256: 56c7f766fc09a5bd0d2674edc89b56f626be0b1694e13dc1c55dadee3fbb1aca
 Section: 应用插件
 Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
+Description: 基于 DYYY 的抖音插件
+ * 双指长按或设置页面调出
+ * 新增一些功能
+ * 新增抖音设置原生插件设置 UI
 Author: huami
-Name: DYYY
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.tencent.themebox
+Version: 2.0.6-1
+Architecture: iphoneos-arm64
+Maintainer: lanmao
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.0.6-1_iphoneos-arm64.deb
+Size: 3974664
+MD5sum: d44ff1774a3542d3f4a6953914a1ed59
+SHA1: d65352a117335c331405dd5e6d465082be7a5fc0
+SHA256: f42417c2a172268262baa4ce8237df2d6b0346712c223ab1c20c696f04950adc
+Section: 微信插件
+Description: 微信主题盒子
+Author: lanmao
+Name: 主题盒子-无根
